@@ -1,0 +1,25 @@
+{
+    "name": "opencafe/datium",
+    "license": "MIT",
+    "description" : "The most flexible DataTime Package ever written in PHP",
+    "keywords": [ "hijri", "jalali", "DateTime", "convert", "calendar", "gregorian" ],
+    "authors": [
+        {
+            "name": "Mehdi Hosseini",
+            "email": "mehdi.hosseini.dev@gmail.com"
+        },
+        {
+            "name": "Shahrokh Niakan",
+            "email": "shahrokhniakan@gmail.com"
+        }
+    ],
+    "require-dev": {
+      "phpunit/phpunit": "~4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "OpenCafe\\" : "src/",
+            "OpenCafe\\Tools\\": "src/"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+Mar 12, 2025 10:56:19 AM org.openqa.selenium.remote.tracing.opentelemetry.OpenTelemetryTracer createTracer
+INFO: Using OpenTelemetry for tracing
+Mar 12, 2025 10:56:21 AM org.openqa.selenium.grid.node.config.NodeOptions getSessionFactories
+INFO: Detected 1 available processors
+Mar 12, 2025 10:56:21 AM org.openqa.selenium.grid.node.config.NodeOptions discoverDrivers
+INFO: Looking for existing drivers on the PATH.
+Mar 12, 2025 10:56:21 AM org.openqa.selenium.grid.node.config.NodeOptions discoverDrivers
+INFO: Add '--selenium-manager true' to the startup command to setup drivers automatically.
+Mar 12, 2025 10:56:21 AM org.openqa.selenium.manager.SeleniumManager lambda$runCommand$1
+WARNING: Unable to discover proper msedgedriver version in offline mode
+Mar 12, 2025 10:56:21 AM org.openqa.selenium.manager.SeleniumManager lambda$runCommand$1
+WARNING: Unable to discover proper geckodriver version in offline mode
+Mar 12, 2025 10:56:22 AM org.openqa.selenium.grid.node.config.NodeOptions report
+INFO: Adding Firefox for {"browserName": "firefox","platformName": "linux"} 1 times
+Mar 12, 2025 10:56:22 AM org.openqa.selenium.grid.node.config.NodeOptions report
+INFO: Adding Chrome for {"browserName": "chrome","platformName": "linux"} 1 times
+Mar 12, 2025 10:56:22 AM org.openqa.selenium.grid.node.config.NodeOptions report
+INFO: Adding Edge for {"browserName": "MicrosoftEdge","platformName": "linux"} 1 times
+Mar 12, 2025 10:56:22 AM org.openqa.selenium.grid.node.Node <init>
+INFO: Binding additional locator mechanisms: relative
+Mar 12, 2025 10:56:22 AM org.openqa.selenium.grid.distributor.GridModel setAvailability
+INFO: Switching Node e9e8fe73-f3ea-43e9-b5cf-b9e265566944 (uri: http://147.93.19.26:4444) from DOWN to UP
+Mar 12, 2025 10:56:22 AM org.openqa.selenium.grid.distributor.local.LocalDistributor add
+INFO: Added node e9e8fe73-f3ea-43e9-b5cf-b9e265566944 at http://147.93.19.26:4444. Health check every 120s
+Mar 12, 2025 10:56:22 AM org.openqa.selenium.grid.commands.Standalone execute
+INFO: Started Selenium Standalone 4.28.1 (revision 73f5ad48a2): http://147.93.19.26:4444
+Mar 12, 2025 10:56:24 AM org.openqa.selenium.grid.distributor.local.LocalDistributor newSession
+INFO: Session request received by the Distributor: 
+ [Capabilities {browserName: chrome, goog:chromeOptions: {args: [--disable-popup-blocking, --disable-notifications, --disable-blink-features=Au..., --no-sandbox, --disable-dev-shm-usage, --window-size=800x600, --user-agent=Mozilla/5.0 (W..., --user-data-dir=/tmp/chrome..., --headless, --disable-gpu, --blink-settings=imagesEnab...], excludeSwitches: [enable-automation], useAutomationExtension: false}}]
+Mar 12, 2025 10:56:26 AM org.openqa.selenium.grid.node.local.LocalNode newSession
+INFO: Session created by the Node. Id: 45a56d4ca7eb455b74b40c16401568b8, Caps: Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 133.0.6943.141, chrome: {chromedriverVersion: 133.0.6943.141 (2a5d6da0d61..., userDataDir: /tmp/chrome_user_data_67d16...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:37661}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://147.93.19.26:4444/sess..., se:cdpVersion: 133.0.6943.141, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Mar 12, 2025 10:56:26 AM org.openqa.selenium.grid.distributor.local.LocalDistributor newSession
+INFO: Session created by the Distributor. Id: 45a56d4ca7eb455b74b40c16401568b8 
+ Caps: Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 133.0.6943.141, chrome: {chromedriverVersion: 133.0.6943.141 (2a5d6da0d61..., userDataDir: /tmp/chrome_user_data_67d16...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:37661}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://147.93.19.26:4444/sess..., se:cdpVersion: 133.0.6943.141, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Mar 12, 2025 10:59:14 AM org.openqa.selenium.remote.tracing.opentelemetry.SeleniumSpanExporter$1 lambda$export$3
+WARNING: {"traceId": "31c3d505c6d31f7340361d5c87bca983","eventTime": 1741777154512509718,"eventName": "HTTP request execution complete","attributes": {"http.flavor": 1,"http.handler_class": "org.openqa.selenium.remote.http.Route$PredicatedRoute","http.host": "localhost:4444","http.method": "POST","http.request_content_length": "2","http.scheme": "HTTP","http.status_code": 400,"http.target": "\u002fsession\u002f45a56d4ca7eb455b74b40c16401568b8\u002felement\u002ff.207D02DF2EEF76180FDAA08B888C5464.d.F246D0185F5E60BD45C736F9E62DEBB9.e.218\u002fclick"}}
+
+Mar 12, 2025 10:59:16 AM org.openqa.selenium.grid.sessionmap.local.LocalSessionMap remove
+INFO: Deleted session from local Session Map, Id: 45a56d4ca7eb455b74b40c16401568b8
+Mar 12, 2025 10:59:16 AM org.openqa.selenium.grid.distributor.GridModel release
+INFO: Releasing slot for session id 45a56d4ca7eb455b74b40c16401568b8
+Mar 12, 2025 10:59:16 AM org.openqa.selenium.grid.node.local.SessionSlot stop
+INFO: Stopping session 45a56d4ca7eb455b74b40c16401568b8

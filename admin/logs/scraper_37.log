@@ -1,0 +1,6 @@
+Starting scraping process for ID: 37
+Post type: article
+URL to scrape: https://www.php.net/manual/en/function.date-default-timezone-set.php
+WebDriver initialized successfully
+Navigating to URL: https://www.php.net/manual/en/function.date-default-timezone-set.php
+Scraping completed for ID 37. Success: 1, Fails: 0, Exists: 0

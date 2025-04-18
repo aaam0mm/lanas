@@ -1,0 +1,2397 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-11-11 20:58+0100\n"
+"PO-Revision-Date: 2024-08-04 01:42+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar_IQ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : "
+"n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: _t\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/parts/delete.php:195 ajax/functions.php:347 ajax/functions.php:371 ajax/functions.php:1185
+#: functions.php:173 functions.php:229
+msgid "تم حدف بنجاح"
+msgstr "بەسەركەوتووی سڕایەوە"
+
+#: admin/parts/files.php:83 admin/parts/files.php:100 parts/media-uploader.php:49
+#: parts/media-uploader.php:94
+msgid "إختر صنف الملف"
+msgstr "جۆری وێنه‌ هەڵبژێرە"
+
+#: ajax/admin/functions.php:18
+msgid "تم إرجاع وسام السيرة الذاتية للحالة الطبيعة"
+msgstr "مه‌دالیای ژیاننامەت لێسەندرایەوە"
+
+#: ajax/admin/functions.php:20
+msgid "مبروك حصلت على وسام السيرة الذاتية"
+msgstr "پیرۆزە مه‌دالیای ژیاننامەت بۆ زیاد كرا"
+
+#: ajax/admin/functions.php:22
+msgid "للأسف تم رفض طلب الحصول على وسام السيرة الذاتية"
+msgstr "ببورە داواكارییەكەت ڕەتكرایەوە بۆ بەدەستهێنی مه‌دالیای ژیاننامە"
+
+#: ajax/ajax-html.php:245 index.php:258 parts/posts/history.php:35
+msgid "في مثل هذا اليوم"
+msgstr "ڕووداوەکانی ئەمرۆ"
+
+#: ajax/ajax-html.php:258 index.php:271 parts/posts/history.php:48
+msgid "ولادة و وفيات اليوم"
+msgstr "لەدایک بوون و مردنی ئەمڕۆ"
+
+#: ajax/ajax-html.php:270 index.php:283 parts/posts/history.php:60
+msgid "مناسبات اليوم"
+msgstr "بۆنەكانی ئەمڕۆ"
+
+#: ajax/functions.php:43 inc/classes/User.php:59 inc/classes/User.php:279
+msgid "المعذرة ! المرجو إختيار الدولة"
+msgstr "ببورە! تكایە وڵاتێك هەڵبژێرە"
+
+#: ajax/functions.php:47 inc/classes/User.php:63
+msgid "المعذرة ! المرجو إختيار الجنس"
+msgstr "ببورە! تكایە ڕەگەز هەڵبژێرە"
+
+#: ajax/functions.php:51 inc/classes/User.php:518
+#, php-format
+msgid "يجب أن يكون إمتداد كلمة السر بين %s إلى %s"
+msgstr "پێویستە وشەی نهێنی له‌ %s بۆ %s بێت"
+
+#: ajax/functions.php:53 inc/classes/User.php:521
+msgid "كلمتي السر غير متطابقتين"
+msgstr "وشەی نێهێنی هاوشێوەی یەك نین"
+
+#: ajax/functions.php:57 inc/classes/User.php:527
+msgid "المعذرة ! إسم المستخدم قصير"
+msgstr "بببورە! ناونیشان كورتە"
+
+#: ajax/functions.php:59 inc/classes/User.php:539
+msgid "المعذرة ! إسم المستخدم مستعمل مسبقا"
+msgstr "بببورە! ئەو ناونیشانە بە كار هاتووە"
+
+#: ajax/functions.php:63 inc/classes/User.php:441 inc/classes/User.php:559
+msgid "المعذرة ! المرجو إدخال بريد إلكتروني صحيح"
+msgstr "ببورە! تكایه‌ ئیمه‌یلی دروست داخل بكه‌"
+
+#: ajax/functions.php:65 inc/classes/User.php:569
+msgid "المعذرة ! البريد الإلكتروني مستعمل مسبقا"
+msgstr "بببورە! ئەو ناونیشانە بە كار هاتووە"
+
+#: ajax/functions.php:69 inc/classes/User.php:547
+#, php-format
+msgid "يجب أن يكون إمتداد الإسم بين %d-%d"
+msgstr "پێویستە جۆری ناو  لەو نێوەندە بێت %d-%d"
+
+#: ajax/functions.php:130 ajax/functions.php:584 ajax/functions.php:594 ajax/functions.php:634
+#: ajax/functions.php:700 ajax/functions.php:746 ajax/functions.php:886 ajax/functions.php:958
+#: ajax/functions.php:966 ajax/functions.php:1003 ajax/functions.php:1015 ajax/functions.php:1163
+#: ajax/functions.php:1188 functions.php:210 inc/classes/Delete.php:251 inc/classes/Delete.php:292
+#: inc/classes/save_post.php:122
+msgid "حدث خطأ المرجو إعادة المحاولة"
+msgstr "هەڵەیەك هەیە! تكایە جارێكی تر هەوڵ بده‌ره‌وه‌"
+
+#: ajax/functions.php:162
+msgid "المرجو رفع إتباث الهوية"
+msgstr "تكایه‌ ناسنامه‌كه‌ت هاوپێچ بكه‌"
+
+#: ajax/functions.php:169
+msgid "تم إرسال الطلب بنجاح"
+msgstr "داواكاریەكەت گەیشت"
+
+#: ajax/functions.php:228
+msgid "المعذرة ليس لك الصلاحيات لحدف هذه الصورة"
+msgstr "ببورە! دەسەڵاتی سڕینەوەی ئەو وێنەت نیە"
+
+#: ajax/functions.php:286
+msgid "المرجو التأكد من الرمز"
+msgstr "تكایە لە كودەكە دڵنیابە"
+
+#: ajax/functions.php:291
+msgid "المرجوالتأكد من كلمة السر"
+msgstr "تكایە لە وشەی نهێنی دڵنیابەوە"
+
+#: ajax/functions.php:323
+msgid "قم بنسخ الرمز ولصه بحقل التأكيد في الموقع"
+msgstr "ئەو كۆدە كۆپی بكە و بلكێنە بە خانەی دڵنیابوون"
+
+#: ajax/functions.php:325
+msgid "رمز تأكيد حدف الحساب"
+msgstr "كۆدی دڵنیابونەوە لە سڕێنەوەی هەژمارەكەت"
+
+#: ajax/functions.php:326
+msgid "تم إرسال رمز التأكيد إلى بريدك الإلكتروني"
+msgstr "كۆدی  سڕێنەوەی هەژمار نێردرا بۆ ئیمیەلەكەت"
+
+#: ajax/functions.php:591
+msgid "تم إضافة التصويت بنجاح"
+msgstr "دەنگدان بە سەركەووتوی ئەنجامدرا"
+
+#: ajax/functions.php:620
+msgid "المرجو إدخال الإسم"
+msgstr "تكایە ناو بنووسە بكە"
+
+#: ajax/functions.php:624
+msgid "المرجو دكر نوع المخالفة"
+msgstr "تكایە جۆری سەرپێچی دیاری بكە"
+
+#: ajax/functions.php:632
+msgid "شكرا على وقتك سيتم أخد هذا التبليغ بغاية الأهمية"
+msgstr "سوپاس.. ئاگادارکردنەوەکەت بە گرنگ وەردەگیرێت"
+
+#: ajax/functions.php:660
+msgid "النص جد قصيرة ! "
+msgstr "ئه‌م ده‌قه‌ كورته‌ ! "
+
+#: ajax/functions.php:665
+msgid "الرسالة جد قصيرة !"
+msgstr "ئه‌م په‌یامه‌ كورته‌ !"
+
+#: ajax/functions.php:676
+msgid "الإسم جد قصير !"
+msgstr "ئه‌م ناوه‌ كورته‌ !"
+
+#: ajax/functions.php:680
+msgid "البريد الإلكتروني غير صالح !"
+msgstr "ئەو ئیمیەلە گونجاو نیە !"
+
+#: ajax/functions.php:698
+msgid "تم إرسال رسالة بنجاح سيتم الرد عليك في أقرب وقت ممكن. شكرا"
+msgstr "سوپاس پەیامەكەت گەیشت بە زووترین كات وەڵام دەدرێتەوە"
+
+#: ajax/functions.php:725 ajax/functions.php:744
+msgid "تم تحديث بنجاح"
+msgstr "به‌سه‌ركه‌وتووی ئه‌نجامدرا‌‌"
+
+#: ajax/functions.php:785
+#, php-format
+msgid "التعليق يجب أن يكون بين %s - %s حرف"
+msgstr "كۆمینته‌كه‌ت ده‌بیت %s - %s پیت بیت"
+
+#: ajax/functions.php:845
+msgid "تم إضافة التعليق بنجاح"
+msgstr "بەسەركەوتووی كۆمێنت زیاد كرا"
+
+#: ajax/functions.php:852
+msgid "المعذرة ! لم يتم إدخال التعليق المرجو إعادة المحاولة"
+msgstr "ببورە! كۆمێنت نەنووسراوە ! تكایە جارێكی تر هەوڵبده‌ره‌وه‌"
+
+#: ajax/functions.php:904 ajax/functions.php:924
+msgid "المعذرة ! ليس لك الصلاحيات للقيام بهذا الإجراء"
+msgstr "ببورە! دەسەڵاتی ئەنجامدانی ئەو كارەت نیە"
+
+#: ajax/functions.php:956
+msgid "تم الإزالة من المفضلة"
+msgstr "لابرا لە دلخوازەكان"
+
+#: ajax/functions.php:964
+msgid "تم الإضافة إلى المفضلة"
+msgstr "زیادكرا بۆ دلخوازەكان"
+
+#: ajax/functions.php:1041
+#, php-format
+msgid "الرسالة يجب أن تكون بين %d - %d حرف"
+msgstr "په‌یامه‌كه‌ت ده‌بێت له‌ %d - %d پیت بێت"
+
+#: ajax/functions.php:1069
+msgid "تم إرسال رسالة بنجاح"
+msgstr "پەیامەكە بەسەركەوتووی نێردرا"
+
+#: ajax/functions.php:1091
+msgid "تم إنشاء حساب بنجاح"
+msgstr "هەژمارەكەت بەسەركەوتووی دامه‌زرا بوو"
+
+#: ajax/functions.php:1094
+msgid "تم تفعيل الحساب بنجاح"
+msgstr "هەژمارەكەت بەسەركەوتووی دامه‌زرا"
+
+#: ajax/functions.php:1102
+msgid "تم تحديث البيانات بنجاح"
+msgstr "زانیاره‌كان به‌ سه‌ركه‌ووتوی ئه‌نجامدرا‌‌"
+
+#: ajax/functions.php:1105
+msgid "تم إرسال رابط إسترجاع كلمة المرور. قم(ي) بتفقد بريدك الإلكتروني"
+msgstr "لینكی گەڕانەوەی وشەی نهێنی نێردراوە بۆ ئیمیەلەكەت"
+
+#: ajax/functions.php:1148
+msgid "تم نشر المحتوى بنجاح"
+msgstr "به‌ سه‌ركه‌وتووی بڵاوكرایەوە"
+
+#: ajax/html-docs/add-post-modal.php:22
+msgid "إضافة لموقع وملفك"
+msgstr "ناردنی بابەت بۆ (ماڵپەڕ) و (پێگەی خۆت)"
+
+#: ajax/html-docs/add-post-modal.php:23
+msgid ""
+"ترسل هنا فقط مواضيع الذي فيه شروط (مواضيع موثقة) بعد موافقة الإدارة سيظهر الموضوع في الموقع وملفك"
+msgstr "بابەتی \"پەسەند کراو\" دوای وردبینی لە (ماڵپەڕ) و (پێگەی خۆت) بڵاو دەبێتەوە"
+
+#: ajax/html-docs/add-post-modal.php:27 inc/functions/post_fn.php:564 parts/dashboard/posts.php:91
+msgid "موثقة"
+msgstr "پەسەند کراو"
+
+#: ajax/html-docs/add-post-modal.php:34
+msgid "إضافة لملفك فقط"
+msgstr "ناردنی بابەت تەنھا بۆ (پێگەی خۆت)"
+
+#: ajax/html-docs/add-post-modal.php:35
+msgid "تنشر هناأي موضوع تريد لك حريةالنشر ولا تحتاج موافقة للنشر، سيظهر الموضوع في ملفك مباشرة"
+msgstr "بابەتی \"پەسەند نەکراو\" ڕاستەوخۆ لە (پێگەی خۆت) بڵاو دەبێتەوە"
+
+#: ajax/html-docs/add-post-modal.php:39 inc/functions/post_fn.php:568 parts/dashboard/posts.php:92
+msgid "حرة"
+msgstr "پەسەند نەکراو"
+
+#: ajax/html-docs/complain-form.php:5
+msgid "مُحتوى ذو طابع لا أخلاقي او مخل باداب العامة"
+msgstr "وێنە، ڤیدیۆ، دەقی دوور لە ڕەوشتی تێدایە"
+
+#: ajax/html-docs/complain-form.php:6
+msgid "مُحتوى يدعوا إلى الحقد و الكراهية و الارهاب"
+msgstr "ھاندانە بۆ ڕقەکاری و دووبەرەکی و توندووتیژی"
+
+#: ajax/html-docs/complain-form.php:7
+msgid "مُحتوى يدعوا إلى شذوذ وفسادالفكري والانحراف"
+msgstr "ھاندانە بۆ ئیلحاد و دژە دینی و تیکچوونی ھیزر"
+
+#: ajax/html-docs/complain-form.php:8
+msgid "مُحتوى قاذف, فاضح أو مُهين لشخص أو جماعة"
+msgstr "تەشھیرە بۆ کەسایەتی، گروپ، لایەن"
+
+#: ajax/html-docs/complain-form.php:9
+msgid "مُحتوى فيه مواد محميَّة بحقوق طبع و نشر أو حقوق ملكية الفكرية"
+msgstr "مافی کەسانی تر لەم بابەتە پێشێلکراوە"
+
+#: ajax/html-docs/complain-form.php:10
+msgid "مُحتوى ليس صحيحا فيها اخطاء يجب ان يصحح"
+msgstr "زانیاری ناڕاست و چەواشەکاری تێدایە"
+
+#: ajax/html-docs/complain-form.php:11
+msgid "مصادر المُحتوى ليس صحيحا"
+msgstr "سەرچاوەی بەکارھاتوو باوەڕپێکراو نییە"
+
+#: ajax/html-docs/complain-form.php:12
+msgid "محتوى عاطل أو رابط معطل أو فيه فايروس"
+msgstr "ھەڵەی تێدایە پێویستە ڕاست بکرێتەوە"
+
+#: ajax/html-docs/complain-form.php:13
+msgid "غير ذالك"
+msgstr "جگە لەمانەی سەرەوە"
+
+#: ajax/html-docs/complain-form.php:37
+msgid "إسم المرسل"
+msgstr "ناوت بنووسە"
+
+#: ajax/html-docs/complain-form.php:42
+msgid "رقم الجوال أو البريد الإلكتروني"
+msgstr "ژمارەی مۆبایل یان ئیمەیل بنووسە"
+
+#: ajax/html-docs/complain-form.php:47
+msgid "نوع المخالفة"
+msgstr "💡تكایە جۆری سەرپێچی دیاری بكە"
+
+#: ajax/html-docs/complain-form.php:59
+msgid "تفاضيل مخالفة"
+msgstr "تکایە ڕوونکردنەوەی زیاتر بنووسە"
+
+#: ajax/html-docs/complain-form.php:64 ajax/html-docs/send-message-modal.php:22 contact.php:49
+#: forget_password.php:31 messages.php:63
+msgid "أرسل"
+msgstr "بینێرە"
+
+#: ajax/html-docs/dashboard-ajax.php:115 functions.php:325 inc/functions/comments.php:190
+#: inc/functions/post_fn.php:172 parts/dashboard/comments.php:95 parts/dashboard/profile.php:148
+#: parts/dashboard/profile.php:201 parts/dashboard/profile.php:252 parts/dashboard/profile.php:304
+msgid "حدف"
+msgstr "سڕینەوە"
+
+#: ajax/html-docs/dashboard-ajax.php:119 inc/functions/post_fn.php:169 parts/dashboard/comments.php:99
+msgid "قفل"
+msgstr "داخستن"
+
+#: ajax/html-docs/dashboard-ajax.php:141 parts/dashboard/statistics.php:210
+msgid "مشاهدة"
+msgstr "بینراوه‌"
+
+#: ajax/html-docs/dashboard-ajax.php:147
+msgid "تقييم"
+msgstr "هەڵسەنگاندن"
+
+#: ajax/html-docs/dashboard-ajax.php:157
+msgid "رد فعل"
+msgstr "لایك"
+
+#: ajax/html-docs/dashboard-ajax.php:161
+msgid "مشاركة"
+msgstr "بڵاوكرنەوە لە تۆڕەكان"
+
+#: ajax/html-docs/modal-post-view.php:39 single-post.php:155
+msgid "شارك على فايسبوك"
+msgstr "بڵاوی بكەوە لە فەیسبوك"
+
+#: ajax/html-docs/modal-post-view.php:42 single-post.php:158
+msgid "شارك على تويتر"
+msgstr "بڵاوی بكەوە لە ئێكس"
+
+#: ajax/html-docs/notification-modal.php:5
+msgid "التنبيهات"
+msgstr "ئاگاداریه‌كان"
+
+#: ajax/html-docs/send-message-modal.php:6
+msgid "أرسل رسالة إلى"
+msgstr "پەیامێك بنێرە بۆ ئه‌م به‌كارهێنه‌ره‌"
+
+#: ajax/html-docs/send-message-modal.php:20
+#, php-format
+msgid "بإرسالك لهذه الرسالة فأنت توافق على %s الموقع"
+msgstr "بە ناردنی ئەم پەیامە واتە ڕەزامەندیت نواندوە لەسەر %s ماڵپەر"
+
+#: ajax/html-docs/signup-modal.php:26 parts/dashboard/account.php:68 signup.php:30
+msgid "إسم المستخدم بحروف انجليزية"
+msgstr "پاشكر به‌ پیتی ئینگلیزی"
+
+#: ajax/html-docs/signup-modal.php:32 inc/functions/user_fn.php:971 parts/dashboard/account.php:108
+#: signup.php:41
+msgid "الجنس"
+msgstr "ڕەگەز"
+
+#: ajax/html-docs/signup-modal.php:34 signup.php:43
+msgid "إختر الجنس"
+msgstr "ڕەگەز دیاری بكە"
+
+#: ajax/html-docs/signup-modal.php:35 functions.php:137 parts/dashboard/account.php:112
+#: parts/post/name.php:34 posts.php:195 signup.php:44
+msgid "ذكر"
+msgstr "نێر‌"
+
+#: ajax/html-docs/signup-modal.php:36 functions.php:138 parts/dashboard/account.php:113
+#: parts/post/name.php:40 posts.php:198 signup.php:45
+msgid "أنثى"
+msgstr "مێ"
+
+#: ajax/html-docs/signup-modal.php:41 parts/dashboard/account.php:123 signup.php:50
+msgid "تاريخ الميلاد"
+msgstr "به‌رواری له‌دایك بوون"
+
+#: ajax/html-docs/signup-modal.php:44 parts/dashboard/account.php:128 parts/dashboard/statistics.php:76
+#: parts/dashboard/statistics.php:139 signup.php:53
+msgid "اليوم"
+msgstr "ڕۆژ"
+
+#: ajax/html-docs/signup-modal.php:50 parts/dashboard/account.php:134 signup.php:59
+msgid "الشهر"
+msgstr "مانگ"
+
+#: ajax/html-docs/signup-modal.php:56 parts/dashboard/account.php:140 signup.php:65
+msgid "السنة"
+msgstr "ساڵ"
+
+#: ajax/html-docs/signup-modal.php:65 parts/dashboard/account.php:92 parts/dashboard/statistics.php:148
+#: signup.php:74
+msgid "الدولة"
+msgstr "وڵات"
+
+#: ajax/html-docs/signup-modal.php:76 signin.php:112 signup.php:84
+msgid "كلمة المرور"
+msgstr "وشەی نهێنی"
+
+#: ajax/html-docs/signup-modal.php:81 reset_password.php:39 signup.php:89
+msgid "تأكيد كلمة المرور"
+msgstr "دووباره‌كردنه‌وه‌ی وشەی نهێنی"
+
+#: ajax/html-docs/signup-modal.php:88
+msgid "أكمل التسجيل"
+msgstr "تۆمار كردن ته‌واو بكه‌"
+
+#: ajax/html-docs/taxonomy-terms-modal.php:7 inc/functions/header_buttons.php:20
+#: parts/dashboard/profile.php:326 posts.php:138 single-post.php:172
+msgid "تنبيه"
+msgstr "ئاگاداری"
+
+#: ajax/html-docs/taxonomy-terms-modal.php:8 posts.php:142
+msgid "قوانين القسم"
+msgstr "یاسای به‌ش"
+
+#: ajax/html-docs/taxonomy-terms-modal.php:9 posts.php:146
+msgid "مصادر معتمدة"
+msgstr "سه‌رچاوه‌ی به‌كار هاتوو"
+
+#: ajax/html-docs/users-page.php:30 inc/functions/user_box_module.php:28 single-post.php:415
+#: user.php:145 users.php:64
+msgid "النقاط"
+msgstr "خاڵەكان"
+
+#: ajax/html-docs/users-page.php:34 inc/functions/user_box_module.php:35 single-post.php:419
+#: user.php:149 users.php:68
+msgid "المواضيع"
+msgstr "بابه‌ته‌كان"
+
+#: ajax/html-docs/users-page.php:38 inc/functions/user_box_module.php:42 single-post.php:423
+#: user.php:153 users.php:72
+msgid "المتابعين"
+msgstr "هاوڕێیه‌كان"
+
+#: ajax/html-docs/users-page.php:43 inc/functions/user_box_module.php:51 single-post.php:428
+#: user.php:159 users.php:77
+msgid "متابعة"
+msgstr "شوێنكەوتن"
+
+#: ajax/html-docs/users-page.php:44 inc/functions/user_box_module.php:54 single-post.php:429
+#: user.php:161 users.php:78
+msgid "أرسل رسالة"
+msgstr "ناردنی پەیام"
+
+#: confirm_account.php:16 confirm_account.php:25
+msgid "تفعيل الحساب"
+msgstr "كاراكردنی هەژمار"
+
+#: confirm_account.php:29
+msgid "رمز التفعيل"
+msgstr "كۆدی كارا كردن"
+
+#: confirm_account.php:32
+msgid "تم إرسال رمز التفعيل إلى بريدك إلكتروني"
+msgstr "كۆدی كارا كردنی هەژمار نێردرا بۆ ئیمیەلەكەت"
+
+#: confirm_account.php:36
+msgid "تفعيل"
+msgstr "كارا كردن"
+
+#: contact.php:11 contact.php:20 header-top.php:108
+msgid "إتصل بنا"
+msgstr "پەیوەندیمان پێكەوە بكە"
+
+#: contact.php:25 inc/functions/user_fn.php:963
+msgid "إسم الثنائي أو الثلاثي"
+msgstr "ناوی ته‌واو"
+
+#: contact.php:31 forget_password.php:24 inc/functions/user_fn.php:1003 parts/dashboard/account.php:80
+#: signup.php:35
+msgid "البريد الإلكتروني"
+msgstr "ئیمیله‌كه‌ت بنووسه‌"
+
+#: contact.php:37
+msgid "سبب المراسلة"
+msgstr "هۆكاری په‌یامه‌كه‌ت بنووسه‌"
+
+#: contact.php:43
+msgid "الرسالة"
+msgstr "په‌یامه‌كه‌ت بنووسه"
+
+#: dashboard.php:9 parts/dashboard/statistics.php:73
+msgid "احصائيات"
+msgstr "ئامار و سەرژمێری"
+
+#: dashboard.php:11
+msgid "هده الإحصائيات خاصة بموقعك فقط و ليست بالموقع كامل"
+msgstr "ئەمه‌ ئاماری هەموو ماڵپەڕ نییە.. به‌ڵكوو ئاماری تایبەت بە پێگەی تۆیه‌"
+
+#: dashboard.php:14
+msgid "مقالاتي و مشاركاتي"
+msgstr "بابه‌ت و به‌شدارییه‌كان"
+
+#: dashboard.php:18
+msgid "اعدادات التعليقات"
+msgstr "كۆگای كۆمێنتەكان"
+
+#: dashboard.php:22
+msgid "اعدادات الإشعارات"
+msgstr "ڕاگرتنی ئاگادارییەکان"
+
+#: dashboard.php:26
+msgid "الملف الشخصي(CV)"
+msgstr "پڕکرنەوەی ژیاننامە (CV)"
+
+#: dashboard.php:30
+msgid "اعدادات الحساب"
+msgstr "زانیاری ھەژمار"
+
+#: dashboard.php:34
+msgid "الشبكات الإجتماعية"
+msgstr "تۆڕە كۆمه‌ڵایه‌تییه‌كان"
+
+#: dashboard.php:38
+msgid "حقيبة النقاط"
+msgstr "خه‌زینه‌ی خاڵەكان"
+
+#: dashboard.php:42
+msgid "تعليمات هامة"
+msgstr "ئاگاداری و ڕێنمای"
+
+#: dashboard.php:49 parts/dashboard/delete-account.php:23 parts/dashboard/delete-account.php:32
+msgid "حدف الحساب"
+msgstr "سڕینەوەی هەژمار"
+
+#: dashboard.php:62 dashboard.php:73
+msgid "لوحة التحكم"
+msgstr "كۆنتڕۆڵ پانێڵ"
+
+#: footer.php:26
+msgid "روابط"
+msgstr "به‌سته‌ری پێویست"
+
+#: footer.php:54
+msgid "تنبيه هام"
+msgstr "خستنه‌ڕوو"
+
+#: footer.php:66
+#, php-format
+msgid "تصميم و برمجة فريق %s %s"
+msgstr "ھەموو مافەکان پارێزراوە بۆ %s %s"
+
+#: forget_password.php:11 forget_password.php:20 inc/classes/User.php:450
+msgid "إسترجاع كلمة المرور"
+msgstr "كەڕاندنەوەی وشەی نهێنی"
+
+#: forget_password.php:27
+msgid "أدخل البريد الإلكتروني الذي سجلت به لكي نرسل لك رابط إعادة تعيين كلمة المرور"
+msgstr ""
+"بۆ گەڕاندنەوەی وشەی نهێنی ئەو ئێمەیلە بنووسە كە ئەو هەژمارەت پێی دروستكردوە تا نامەیەكت بۆ بنێرین"
+
+#: forget_password.php:34
+msgid "ليس لديك حساب ?"
+msgstr "هه‌ژمارت هه‌یه‌‌؟"
+
+#: forget_password.php:34
+msgid "سجل حساب الآن"
+msgstr "هەژمارێك بكەوه‌"
+
+#: functions.php:152
+msgid "شروط إستخدام"
+msgstr "مەرجی بەكارهێنان"
+
+#: functions.php:169
+msgid "هل تريد حدف هذا المحتوى ؟"
+msgstr "ئاگاداربە دوای سڕینەوە ناگەڕێتەوە؟"
+
+#: functions.php:170
+msgid "تنبيه جديد"
+msgstr "ئاگاداری نوێ‌"
+
+#: functions.php:171
+msgid "رسالة جديدة"
+msgstr "په‌یامی نوێ"
+
+#: functions.php:172 parts/media-uploader.php:71
+msgid "جاري التحميل ..."
+msgstr "چاوەڕوان بە ..."
+
+#: functions.php:174 functions.php:2930
+msgid "إشترك"
+msgstr "به‌شدار به‌"
+
+#: functions.php:175 parts/dashboard/profile.php:337
+msgid "الملف"
+msgstr "فایل"
+
+#: functions.php:176 functions.php:2928
+msgid "إلغاء الإشتراك"
+msgstr "لابردنی به‌شداری"
+
+#: functions.php:177
+msgid "تمت العملية بنجاح"
+msgstr "كاره‌كه‌ به ‌سه‌ركه‌وتووی ئه‌نجامدرا‌‌"
+
+#: functions.php:178 signin.php:61 signin.php:66
+msgid "حدث خطأ المرجو إعادة المحاولة مرة أخرى"
+msgstr "هەڵەیەك هەیە! تكایە جارێكی تر هەوڵ بده‌ره‌وه‌"
+
+#: functions.php:179
+msgid "حسنا"
+msgstr "به‌ڵێ"
+
+#: functions.php:180
+msgid "إلغاء"
+msgstr "پاشگەز بوونەوە"
+
+#: functions.php:181
+msgid "إنتباه"
+msgstr "ئاگاداری"
+
+#: functions.php:182
+msgid "غلق الجميع"
+msgstr "داخستنی هەموو"
+
+#: functions.php:183 posts.php:189
+msgid "فتح الجميع"
+msgstr "كردنه‌وه‌ی هەموو"
+
+#: functions.php:186
+msgid "لم يتم رفع الملف. المرجو التأكد من الحجم و الإمتداد"
+msgstr "ببورە! فایلەكەت قبوڵ نەكرا دڵنیابەرەوە لە كێش و جۆرەكەی"
+
+#: functions.php:187
+msgid "المعدرة حجم الملف كبير"
+msgstr "ئەم فایلە قەبارەی زۆرە تکایە بچووکی بکەوە"
+
+#: functions.php:252 functions.php:260
+msgid "تم عمل التنفيد الجماعي بنجاح"
+msgstr "كاره‌كه‌ به ‌سه‌ركه‌وتووی ئه‌نجامدرا‌‌"
+
+#: functions.php:278
+msgid "تم نقل  المواضيع بنجاح"
+msgstr "بابەتەكە به‌ سه‌ركه‌ووتوی گواسترایەوە"
+
+#: functions.php:326
+msgid "تعطيل"
+msgstr "له‌كارخستن"
+
+#: functions.php:327 post.php:204 post.php:209
+msgid "نشر"
+msgstr "بڵاوكردنەوە"
+
+#: functions.php:329 parts/dashboard/posts.php:54
+msgid "تنفيد"
+msgstr "جێبەجێكردن"
+
+#: functions.php:366
+msgid "عرض المزيد"
+msgstr "پێشاندانی زیاتر"
+
+#: functions.php:874
+msgid "أكمل إلى الرئيسية"
+msgstr "بگەڕێوە بۆ لاپەڕەی سەرەكی"
+
+#: functions.php:1794
+msgid "عمل لك متابعة"
+msgstr "فۆڵۆوی كردی"
+
+#: functions.php:1795 functions.php:1802 functions.php:1808 functions.php:1814 functions.php:1820
+#: functions.php:1826 functions.php:1832 functions.php:1839 functions.php:1845 functions.php:1852
+#: functions.php:1859 functions.php:1866
+msgid "الإدارة"
+msgstr "لاناس"
+
+#: functions.php:1801
+msgid "قام بالتعليق على"
+msgstr "كۆمێنتی نووسی لەسەر"
+
+#: functions.php:1807
+msgid "تم نشر"
+msgstr "ئەم بابەتە بڵاوکرایەوە"
+
+#: functions.php:1813
+msgid "تم قفل"
+msgstr "ئەم بابەتە هەڵپەسێردرا"
+
+#: functions.php:1819
+msgid "تم إضافة نقاط إلى حسابك"
+msgstr "پیرۆزە خاڵت بۆ زیاد كرا"
+
+#: functions.php:1825
+msgid "حصلت على وسام جديد"
+msgstr "پیرۆزە مه‌دالیات بۆ زیاد كرا"
+
+#: functions.php:1831
+msgid "حصلت على رتبة جديدة"
+msgstr "پبیرۆزە پلەت بەرز کرایەوە"
+
+#: functions.php:1838
+msgid "مبروك تم إضافة إلى المواضيع المميزة"
+msgstr "پیرۆزە ئەو بابەتەت خرایە بەشی بابەتە ھەڵبژێردراوەکان"
+
+#: functions.php:1865
+msgid "تم إضافة تنبيه ل "
+msgstr "💡بۆ ئەوەی ئەم بابەتەت بڵاو بکرێتەوە، تکایە ئەو تێبینیانەی نووسیومانە چاکی بکە "
+
+#: functions.php:1871
+msgid "رد فعل على"
+msgstr "لایكی كرد بۆ"
+
+#: functions.php:1877
+msgid "تقييم ل"
+msgstr "هەڵسەنگاندنی كرد بۆ"
+
+#: functions.php:2620
+msgid "لا يوجد أي محتوى حاليا"
+msgstr "هیچ بابەتێك بوونی نيیە"
+
+#: header-top.php:50
+msgid "الأقسام"
+msgstr "به‌شه‌كان"
+
+#: header-top.php:79 parts/signin-modal.php:7 signin.php:122 signup.php:96
+msgid "دخول"
+msgstr "چوونه‌ ژوور"
+
+#: header-top.php:92 inc/functions/header_buttons.php:111
+msgid "اللغة"
+msgstr "زمان"
+
+#: header-top.php:105 posts.php:57 single-post.php:134
+msgid "الرئيسية"
+msgstr "پەڕەی سه‌ره‌كی"
+
+#: header-top.php:107
+msgid "دخول إلى الحساب"
+msgstr "چوونه‌ ژووره‌وه‌"
+
+#: header.php:24
+msgid "أضف موضوعا"
+msgstr "بابەتێك بنێرە"
+
+#: header.php:30
+msgid "إختر قسما"
+msgstr "به‌شه‌كان"
+
+#: header.php:41
+msgid "نتائج البحث"
+msgstr "ئەنجامی گەڕان"
+
+#: header.php:45
+msgid "عرض نتائج البحث"
+msgstr "پێشاندانی ئەنجامی هەموو گەڕانه‌كان"
+
+#: inc/classes/Delete.php:23
+msgid "المعذرة ! لم يتم حدف بعض الدول"
+msgstr "ببورە! هەندێ‌ وڵات نەسڕایه‌وە"
+
+#: inc/classes/Delete.php:35
+msgid "المعذرة ! لم يتم حدف بعض الصفحات"
+msgstr "ببورە! هەندێ‌ پەڕە نەسڕایه‌وە"
+
+#: inc/classes/Delete.php:87 inc/classes/Delete.php:103
+msgid "لا يمكن إكمال هذه العملية"
+msgstr "ئەم كارە ناكرێت ئەنجام بدرێت"
+
+#: inc/classes/Delete.php:219
+msgid "المرجو إختيار رتبة "
+msgstr "تكایە پلە هەڵبژێرە "
+
+#: inc/classes/Delete.php:241
+msgid "المعدرة لا يمكن حدف القسم الإفتراضي"
+msgstr "ببورە بەشی جێگیر ناسڕێتەوە"
+
+#: inc/classes/User.php:161
+msgid "المعذرة ! المرجو التأكد من رمز التفعيل"
+msgstr "ببورە! تكایە دڵنیابەوە لە كۆدی كاراكردنی هەژمار"
+
+#: inc/classes/User.php:178 inc/classes/User.php:183
+msgid "المعذرة ! الحقل فارغ"
+msgstr "ببورە! خانەكە بەتاڵە"
+
+#: inc/classes/User.php:196 inc/classes/User.php:207
+msgid "المعذرة ! إسم المستخدم أو كلمة المرور خطأ"
+msgstr "ببورە! ناونیشان یان وشەی نهێنی هەڵەیە"
+
+#: inc/classes/User.php:300
+msgid "المعذرة كلمة السر الحالية خطأ."
+msgstr "ببورە! وشەی نهێنی ئێستا هەڵەیە."
+
+#: inc/classes/User.php:419
+msgid "المعذرة ! الرابط غير صحيح"
+msgstr "ببورە! ئەو لینكە دروست نیە"
+
+#: inc/classes/User.php:449
+msgid "إتبع الرابط التالي لإسترجاع كلمة مرور حسابك"
+msgstr "لە ڕێگای ئەو لینكەوە وشەی نهێنی هەژمارەكەت بگەڕێنەوە"
+
+#: inc/classes/User.php:449
+msgid "من هنا"
+msgstr "لێرەوە"
+
+#: inc/classes/save_post.php:142
+msgid "مسودة تلقائية"
+msgstr "گەڵاڵەی تۆماتێكی"
+
+#: inc/classes/save_post.php:182
+msgid "المعذرة ! نقاطك لاتسمح لك بإضافة موضوع"
+msgstr ""
+"ببوورە! بەھۆی نەبوونی خاڵی پێویست لە ھەژمارەکەت ناتوانی بابەت زیاد بکەی.. بۆ بەدەستھێنانی خاڵی زیاتر "
+"پێویستە بابەتی سەلمێنراو زیاد بکەی"
+
+#: inc/classes/save_post.php:187
+msgid "المعذرة ! لقد تجاوزت الحد المسموج به للإضافة اليوم"
+msgstr "ببورە! ئەمرۆ لەوە زیاتر ناتوانی بابەت بڵاوبكەیەوە"
+
+#: inc/classes/save_post.php:235
+msgid "تم إيقاف هذا المحتوى من طرف الإدارة"
+msgstr "ئەم بابەتە لەلایەن بەڕێوبەرایەتی ماڵپه‌ڕەوە ڕاگیراوە"
+
+#: inc/classes/save_post.php:382
+msgid "المرجو إدخال إسم مؤلف الكتاب"
+msgstr "تكایه‌ ناوی نووسه‌ر بنووسه‌"
+
+#: inc/classes/save_post.php:391
+msgid "المرجو رفع كتاب"
+msgstr "تكایه‌ كتێبەكە بەرزبكەوە بۆ ماڵپەڕ"
+
+#: inc/classes/save_post.php:399
+msgid "المرجو إختيار جنس الإسم"
+msgstr "تكایە ڕەگەزی ناو  دیاری بكە"
+
+#: inc/classes/save_post.php:412
+msgid "المرجو إختيار تصنيف "
+msgstr "تكایە پۆلێن هەڵبژێرە "
+
+#: inc/classes/save_post.php:415
+msgid "المرجو إختيار التقويم"
+msgstr "تكایە ڕۆژ ژمێر هەڵبژێرە"
+
+#: inc/classes/save_post.php:428
+msgid "المرجو إختيار الشهر"
+msgstr "تكایە مانگ هەڵبژێرە"
+
+#: inc/classes/save_post.php:440
+msgid "المرجو إدخال إسم المؤلف"
+msgstr "تكایه‌ ناوی نووسه‌ر بنووسه"
+
+#: inc/classes/save_post.php:447
+msgid "المرجو إختيار صورة"
+msgstr "تكایە وێنەیەك هەڵبژێرە"
+
+#: inc/classes/save_post.php:458
+msgid "المرجو إدخال عنوان"
+msgstr "تكایە ناونشان هەڵبژێرە"
+
+#: inc/classes/save_post.php:463
+msgid "المرجو إختيار قسم"
+msgstr "تكایە به‌شێك هەڵبژێرە"
+
+#: inc/functions/comments.php:69
+msgid "أضف تعليق"
+msgstr "بینیرە"
+
+#: inc/functions/comments.php:167
+msgid "أضف رد"
+msgstr "وەڵامدانەوە"
+
+#: inc/functions/comments.php:168
+msgid "عرض الردود"
+msgstr "پێشاندانی وەڵامەكان"
+
+#: inc/functions/comments.php:186 inc/functions/post_fn.php:147 parts/dashboard/profile.php:145
+#: parts/dashboard/profile.php:198 parts/dashboard/profile.php:249 parts/dashboard/profile.php:301
+#: post.php:201
+msgid "تعديل"
+msgstr "دەستکاری"
+
+#: inc/functions/comments.php:193
+msgid "تبليغ"
+msgstr "ئاگاداركردنه‌وه‌"
+
+#: inc/functions/core_fn.php:567
+msgid "يناير"
+msgstr "(1) يناير"
+
+#: inc/functions/core_fn.php:568
+msgid "فبراير"
+msgstr "(2) فبراير"
+
+#: inc/functions/core_fn.php:569
+msgid "مارس"
+msgstr "(3) مارس"
+
+#: inc/functions/core_fn.php:570
+msgid "أبريل"
+msgstr "(4) أبريل"
+
+#: inc/functions/core_fn.php:571
+msgid "مايو"
+msgstr "(5) مايو"
+
+#: inc/functions/core_fn.php:572
+msgid "يونيو"
+msgstr "(6) يونيو"
+
+#: inc/functions/core_fn.php:573
+msgid "يوليو"
+msgstr "(7) يوليو"
+
+#: inc/functions/core_fn.php:574
+msgid "أُغسطس"
+msgstr "(8) أُغسطس"
+
+#: inc/functions/core_fn.php:575
+msgid "سبتمبر"
+msgstr "(9) سبتمبر"
+
+#: inc/functions/core_fn.php:576
+msgid "أكتوبر"
+msgstr "(10) أكتوبر"
+
+#: inc/functions/core_fn.php:577
+msgid "نوفمبر"
+msgstr "(11) نوفمبر"
+
+#: inc/functions/core_fn.php:578
+msgid "ديسمبر"
+msgstr "(12) ديسمبر"
+
+#: inc/functions/core_fn.php:581
+msgid "محرم"
+msgstr "(1) محرم"
+
+#: inc/functions/core_fn.php:582
+msgid "صفر"
+msgstr "(2) صفر"
+
+#: inc/functions/core_fn.php:583
+msgid "ربيع الأول"
+msgstr "(3) ربيع الأول"
+
+#: inc/functions/core_fn.php:584
+msgid "ربيع الثاني"
+msgstr "(4) ربيع الثاني"
+
+#: inc/functions/core_fn.php:585
+msgid "جمادي الأول"
+msgstr "(5) جمادي الأول"
+
+#: inc/functions/core_fn.php:586
+msgid "جمادي الثاني"
+msgstr "(6) جمادي الثاني"
+
+#: inc/functions/core_fn.php:587
+msgid "رجب"
+msgstr "(7) رجب"
+
+#: inc/functions/core_fn.php:588
+msgid "شعبان"
+msgstr "(8) شعبان"
+
+#: inc/functions/core_fn.php:589
+msgid "رمضان"
+msgstr "(9) رمضان"
+
+#: inc/functions/core_fn.php:590
+msgid "شوال"
+msgstr "(10) شوال"
+
+#: inc/functions/core_fn.php:591
+msgid "ذو القعدة"
+msgstr "(11) ذو القعدة"
+
+#: inc/functions/core_fn.php:592
+msgid "ذو الحجة"
+msgstr "(12) ذو الحجة"
+
+#: inc/functions/core_fn.php:595
+msgid "خاکەلێو(نەورۆز)"
+msgstr "(1) خاکەلێو(نەورۆز)"
+
+#: inc/functions/core_fn.php:596
+msgid "گوڵان (بانەمەڕ)"
+msgstr "(2) گوڵان (بانەمەڕ)"
+
+#: inc/functions/core_fn.php:597
+msgid "جۆزەردان"
+msgstr "(3) جۆزەردان"
+
+#: inc/functions/core_fn.php:598
+msgid "پووشپەڕ"
+msgstr "(4) پووشپەڕ"
+
+#: inc/functions/core_fn.php:599
+msgid "گەلاوێژ"
+msgstr "(5) گەلاوێژ"
+
+#: inc/functions/core_fn.php:600
+msgid "خەرمانان"
+msgstr "(6) خەرمانان"
+
+#: inc/functions/core_fn.php:601
+msgid "ڕەزبەر"
+msgstr "(7) ڕەزبەر"
+
+#: inc/functions/core_fn.php:602
+msgid "خەزەڵوەر(گەڵارێزان)"
+msgstr "(8) خەزەڵوەر(گەڵارێزان)"
+
+#: inc/functions/core_fn.php:603
+msgid "سەرماوەز"
+msgstr "(9) سەرماوەز"
+
+#: inc/functions/core_fn.php:604
+msgid "بەفرانبار"
+msgstr "(10) بەفرانبار"
+
+#: inc/functions/core_fn.php:605
+msgid "ڕێبەندان"
+msgstr "(11) ڕێبەندان"
+
+#: inc/functions/core_fn.php:606
+msgid "ڕەشەمێ"
+msgstr "(12) ڕەشەمێ"
+
+#: inc/functions/core_fn.php:636
+msgid "أقل من 1 ثانية"
+msgstr "كه‌متر له‌ 1 چركه‌"
+
+#: inc/functions/core_fn.php:640
+msgid "سنة"
+msgstr "ساڵ"
+
+#: inc/functions/core_fn.php:641
+msgid "شهر"
+msgstr "مانگ"
+
+#: inc/functions/core_fn.php:642
+msgid "يوم"
+msgstr "ڕۆژ"
+
+#: inc/functions/core_fn.php:643
+msgid "ساعة"
+msgstr "كاتژمێر"
+
+#: inc/functions/core_fn.php:644
+msgid "دقيقة"
+msgstr "خوله‌ك"
+
+#: inc/functions/core_fn.php:645
+msgid "ثانية"
+msgstr "چركه‌"
+
+#: inc/functions/core_fn.php:655
+msgid "منذ "
+msgstr "پێش "
+
+#: inc/functions/header_buttons.php:46 inc/functions/header_buttons.php:81
+msgid "عرض الكل"
+msgstr "پێشاندانی هەموو"
+
+#: inc/functions/header_buttons.php:59 inc/functions/header_buttons.php:115
+#: inc/functions/header_buttons.php:117
+msgid "الرسائل"
+msgstr "نامه‌كانم"
+
+#: inc/functions/header_buttons.php:92
+msgid "ملف الشخصي"
+msgstr "ماڵپەری من"
+
+#: inc/functions/header_buttons.php:94
+msgid "إعدادات"
+msgstr "ڕێکخستنەکان"
+
+#: inc/functions/header_buttons.php:107
+msgid "لوحة الأدمن"
+msgstr "ژووری ئەدمین"
+
+#: inc/functions/header_buttons.php:120
+msgid "الخروج"
+msgstr "ده‌رچوون"
+
+#: inc/functions/post_fn.php:154
+msgid "إلغاء التوثيق"
+msgstr "گەڕانەوە بۆ په‌سه‌ند نه‌كراو"
+
+#: inc/functions/post_fn.php:159
+msgid "توثيق"
+msgstr "په‌سه‌ند ‌كردن"
+
+#: inc/functions/post_fn.php:232
+msgid "تم تحويل المنشور بنجاح"
+msgstr "بەسەركەوتووی گواسترایەوە"
+
+#: inc/functions/post_fn.php:235
+msgid "المعذرة ! المرجو إعادة المحاولة"
+msgstr "ببورە هەڵەیەك هەیە! تكایە جارێكی تر هەوڵ بده‌ره‌وه‌"
+
+#: inc/functions/user_fn.php:906 inc/functions/user_fn.php:909 inc/functions/user_fn.php:1090
+#: inc/functions/user_fn.php:1093
+msgid "الجميع"
+msgstr "هەمووی بیبینن"
+
+#: inc/functions/user_fn.php:910 inc/functions/user_fn.php:1094
+msgid "متابعون"
+msgstr "هاوڕێیه‌كان"
+
+#: inc/functions/user_fn.php:911 inc/functions/user_fn.php:1095
+msgid "أنا فقط"
+msgstr "تەنها خۆم"
+
+#: inc/functions/user_fn.php:979
+msgid "الوظيفة الحالية"
+msgstr "كاری ئێستا"
+
+#: inc/functions/user_fn.php:987
+msgid "الحالة الإجتماعية"
+msgstr "باری كۆمەڵایەتی"
+
+#: inc/functions/user_fn.php:995
+msgid "محل الإقامة و العنوان الحالي"
+msgstr "ناونیشانی ئیستا"
+
+#: inc/functions/user_fn.php:1011
+msgid "الموقع"
+msgstr "پێگه‌ی تایبه‌تی خۆت"
+
+#: inc/functions/user_fn.php:1019
+msgid "الهاتف"
+msgstr "مۆبایل"
+
+#: inc/functions/user_fn.php:1027
+msgid "نبذة مختصرة عنك"
+msgstr "كورتەیەك دەربارەت"
+
+#: inc/functions/user_fn.php:1035
+msgid "رابط يوتيوب لفيديو تعريفي"
+msgstr "لینكی ڤیدیۆی ناساندن"
+
+#: inc/functions/user_fn.php:1042 inc/functions/user_fn.php:1545
+msgid "تحميل السيرة الذاتية"
+msgstr "دابه‌زاندنی ژیاننامە (CV)"
+
+#: inc/functions/user_fn.php:1140
+msgid "لا يراه احد"
+msgstr "كەس توانای بینینی نيیە"
+
+#: inc/functions/user_fn.php:1144
+msgid "لا يراه احد الا متابعه. تابعه"
+msgstr "تەنها ئەوكەسانە دەیبینن كە شوێنیكەوتوون..شێنی بكەوە"
+
+#: inc/functions/user_fn.php:1202 parts/dashboard/profile.php:102
+msgid "المعلومات الشخصية"
+msgstr "زیانیاری كه‌سی"
+
+#: inc/functions/user_fn.php:1303
+msgid "نبذة مختصرة"
+msgstr "كورته‌ی ژیاننامه‌"
+
+#: inc/functions/user_fn.php:1323
+msgid "فيديو تعريفي"
+msgstr "ڤیدیۆی ناساندن"
+
+#: inc/functions/user_fn.php:1349
+msgid "المؤهلات العلمية و الشهادات"
+msgstr "بڕوانامە و ئاستی زانستی"
+
+#: inc/functions/user_fn.php:1392 parts/dashboard/profile.php:171 parts/dashboard/profile.php:173
+msgid "النشاطات و الدورات"
+msgstr "خول و چالاكییه‌كان"
+
+#: inc/functions/user_fn.php:1439 parts/dashboard/profile.php:19 parts/dashboard/profile.php:226
+msgid "المهارات و الخبرات"
+msgstr "شارەزا له‌م‌ بوارانه‌"
+
+#: inc/functions/user_fn.php:1502 parts/dashboard/profile.php:23 parts/dashboard/profile.php:275
+#: parts/dashboard/profile.php:277
+msgid "الإنجازات و الإصدارات"
+msgstr "بەرهەمەكان"
+
+#: index.php:191 signin.php:98
+msgid "تسجيل الدخول"
+msgstr "چوونه‌ ژوور"
+
+#: index.php:194
+msgid "حساب جديد"
+msgstr "هەژماری نوێ‌"
+
+#: index.php:252 parts/posts/history.php:28
+msgid "الأمس"
+msgstr "دوێنێ‌"
+
+#: index.php:254 parts/posts/history.php:30
+msgid "غدا"
+msgstr "سبه‌ی"
+
+#: index.php:341
+msgid "مميز"
+msgstr "بۆمان هەڵبژاردوون"
+
+#: index.php:404
+msgid "مواضيع متنوعة"
+msgstr "بابەتی هه‌مه‌جۆر"
+
+#: index.php:443
+msgid "كتب PDF"
+msgstr "كتێبخانه‌ی كوردی"
+
+#: index.php:504
+msgid "مقالات الرأي"
+msgstr "بیروڕای نووسه‌ران"
+
+#: index.php:551
+msgid "اكثر مشاهدة"
+msgstr "زۆرترین بینراو"
+
+#: index.php:554
+msgid "جديد"
+msgstr "بابه‌تی نوێ‌"
+
+#: index.php:626
+msgid "كتب Word"
+msgstr "توێژینەوە و دۆسییه‌"
+
+#: index.php:696
+msgid "حكاية صور"
+msgstr "وێنە و سه‌رنج"
+
+#: index.php:754
+msgid "حكاية فيديو"
+msgstr "ڤیدیۆ و سه‌رنج"
+
+#: index.php:817
+msgid "اسماء"
+msgstr "ناوی منداڵان"
+
+#: index.php:830
+msgid "حكم"
+msgstr "پەند و ئامۆژگاری"
+
+#: index.php:843
+msgid "قاموس"
+msgstr "فەرهەنگخانه‌"
+
+#: index.php:858
+msgid "المدونون"
+msgstr "ئه‌ندامی چالاك"
+
+#: index.php:876 parts/dashboard/statistics.php:47 parts/dashboard/statistics.php:48
+msgid "مواضيع"
+msgstr "بابه‌ته‌كان"
+
+#: index.php:903
+msgid "عدد المدونين"
+msgstr "ژماره‌ی ئه‌ندامه‌كان"
+
+#: index.php:912 parts/post/book.php:50
+msgid "عدد الصفحات"
+msgstr "ژماره‌ی پەرەكان"
+
+#: index.php:921
+msgid "عدد الزيارات"
+msgstr "ژماره‌ی سه‌ردانه‌كان"
+
+#: init.php:10
+msgid "الموقع مغلق حاليا"
+msgstr "لە ئێستادا ماڵپەڕ داخراوە"
+
+#: messages.php:60
+msgid "أكتب راسالتك هنا"
+msgstr "پەیامەكەت لێرە بنووسە"
+
+#: messages.php:67
+msgid "حدف المحادثة"
+msgstr "سڕینەوەی هەژمار"
+
+#: parts/dashboard/account.php:42
+msgid "إرفع صورة"
+msgstr "وێنەیەك بەرزكەوە"
+
+#: parts/dashboard/account.php:56 signup.php:25
+msgid "إسمك مع (إسم الاب أو اللقب)"
+msgstr "ناوت بنووسه‌ (یان له‌قه‌ب)"
+
+#: parts/dashboard/account.php:153
+msgid "تغيير كلمة المرور"
+msgstr "گۆڕینی وشەی نهێنی"
+
+#: parts/dashboard/account.php:161
+msgid "كلمة السر الحالية"
+msgstr "وشەی نهێنی ئێستا"
+
+#: parts/dashboard/account.php:173
+msgid "كلمة السر الجديدة"
+msgstr "وشەی نهێنی نوێ‌"
+
+#: parts/dashboard/account.php:185
+msgid "تأكيد كلمة السر"
+msgstr "دووباره‌كردنه‌وه‌ی وشەی نهێنی"
+
+#: parts/dashboard/account.php:197 parts/dashboard/notifications.php:47 parts/dashboard/profile.php:107
+#: parts/dashboard/profile.php:389 parts/dashboard/social-networks.php:81
+#: parts/language-settings-modal.php:34
+msgid "حفظ"
+msgstr "پاشەکەوت"
+
+#: parts/dashboard/account.php:210
+msgid "شبكات الإجتماعية المتاحة"
+msgstr "تۆڕە كۆمەڵایەتیه‌كانی به‌رده‌سته‌"
+
+#: parts/dashboard/account.php:213 parts/dashboard/account.php:228
+msgid "فايسبوك"
+msgstr "فه‌یس بووك"
+
+#: parts/dashboard/account.php:216 parts/dashboard/account.php:233
+msgid "تويتر"
+msgstr "ئێكس"
+
+#: parts/dashboard/account.php:223
+msgid "شبكات الإجنماعية على إتصال"
+msgstr "تۆڕە كۆمەڵایەتیه‌كانی كارایه‌‌‌"
+
+#: parts/dashboard/comments.php:31
+msgid "تعليقات المشاركات"
+msgstr "كۆمێنتی بابه‌ته‌كان"
+
+#: parts/dashboard/comments.php:32
+msgid "تعليقاتي"
+msgstr "كۆمێنتەكانی من"
+
+#: parts/dashboard/comments.php:62
+msgid "التعليق"
+msgstr "كۆمێنت"
+
+#: parts/dashboard/comments.php:63
+msgid "رقم المحتوى"
+msgstr "ژماره‌ی بابه‌ت"
+
+#: parts/dashboard/comments.php:64
+msgid "إسم المستخدم"
+msgstr "ناونیشان"
+
+#: parts/dashboard/comments.php:65 parts/dashboard/posts.php:126
+msgid "فئة"
+msgstr "جۆر"
+
+#: parts/dashboard/comments.php:66 parts/dashboard/posts.php:128
+msgid "الإجراءات"
+msgstr "گۆڕانكاری"
+
+#: parts/dashboard/delete-account.php:10
+msgid "حدف الحساب خطوة لا يمكن التراجع عنها"
+msgstr "ئاگاداربە! بەسڕێنەوەی ھەژمارەکەت جارێکی تر ناتوانی ئەو ھەژمارە بەکار بھێنیەوە"
+
+#: parts/dashboard/delete-account.php:14
+msgid "الرمز"
+msgstr "كۆدی"
+
+#: parts/dashboard/delete-account.php:15
+msgid "الرمز الذي وصلت على البريد الإلكتروني"
+msgstr "ئه‌و كۆده‌ی بۆ ئیمه‌یله‌كه‌ت نیردرا"
+
+#: parts/dashboard/delete-account.php:19
+msgid "كلمة السر"
+msgstr "وشه‌ی نێهینی"
+
+#: parts/dashboard/delete-account.php:26
+msgid "لم يصل رمز التفعيل ؟"
+msgstr "كۆدی كاراكردن نه‌گه‌یشت؟"
+
+#: parts/dashboard/delete-account.php:26
+msgid "أعد إرسال"
+msgstr "جارێكی تر بینێرەوە"
+
+#: parts/dashboard/delete-account.php:35
+msgid "هذه الخطوة لا يمكن التراجع عنها"
+msgstr "ئاگاداربە بسڕێنەوەی هەژمار ناتوانی جارێكی تر ئەو هەژمارە بەكاربهێنیەوە"
+
+#: parts/dashboard/notifications.php:17
+msgid "إشعارات التعليقات"
+msgstr "ئاگاداری له‌ كۆمێنته‌كان"
+
+#: parts/dashboard/notifications.php:24
+msgid "إشعارات التقييم"
+msgstr "ئاگاداری هەڵسەنگاندن"
+
+#: parts/dashboard/notifications.php:34
+msgid "إشعارات الإشترك"
+msgstr "ئاگاداری شوێنکەوتن"
+
+#: parts/dashboard/notifications.php:40
+msgid "إشعارات رد فعل"
+msgstr "ئاگاداری لایك"
+
+#: parts/dashboard/points-bag.php:19
+msgid "نقاط الحالية"
+msgstr "خاڵه‌كانی ئێستا"
+
+#: parts/dashboard/points-bag.php:25 parts/dashboard/statistics.php:33
+msgid "نقاط المستهلكة"
+msgstr "خاڵی بەكار هاتوو"
+
+#: parts/dashboard/points-bag.php:31 parts/dashboard/statistics.php:32
+msgid "كل النقاط المحصل عليها"
+msgstr "هەموو حاڵەكان"
+
+#: parts/dashboard/posts.php:49
+msgid "نقل"
+msgstr "گواستنەوە"
+
+#: parts/dashboard/posts.php:71
+msgid "بحث عن مشاركة"
+msgstr "گەڕان لە بابەت"
+
+#: parts/dashboard/posts.php:75
+msgid "إختر الصنف"
+msgstr "هەڵبژاردنی بەش"
+
+#: parts/dashboard/posts.php:76 parts/dashboard/posts.php:90 parts/media-uploader.php:50 posts.php:75
+#: posts.php:104 user.php:360 users.php:30
+msgid "الكل"
+msgstr "هه‌موو"
+
+#: parts/dashboard/posts.php:89
+msgid "موثقة / حرة"
+msgstr "پەسەند کراو/پەسەند نەکراو"
+
+#: parts/dashboard/posts.php:125
+msgid "عنوان"
+msgstr "ناونیشان"
+
+#: parts/dashboard/posts.php:127
+msgid "المشاهدات"
+msgstr "سه‌ردان"
+
+#: parts/dashboard/profile.php:15
+msgid "الإنجاز أو الإصدار"
+msgstr "پڕۆژه‌ و به‌رهه‌م"
+
+#: parts/dashboard/profile.php:15
+msgid "تاريخ الإصدار"
+msgstr "به‌رواری ده‌ستپێك"
+
+#: parts/dashboard/profile.php:15
+msgid "الرابط"
+msgstr "بەستەر"
+
+#: parts/dashboard/profile.php:15
+msgid "المهارة أو الخبرة"
+msgstr "ئه‌و بواره‌ی شاره‌زای بنووسه‌"
+
+#: parts/dashboard/profile.php:15 parts/dashboard/profile.php:234
+msgid "اكتب رقم للمستوى مثل: (80 أو 40 أو..)"
+msgstr "ژماره‌ بنووسه‌ بۆ پله‌ وه‌ك: (80 یان 40 یان...)."
+
+#: parts/dashboard/profile.php:15
+msgid "النشاط أو الدورة"
+msgstr "چالاكی و خول"
+
+#: parts/dashboard/profile.php:15 parts/dashboard/profile.php:181
+msgid "تاريخ الإلتحاق"
+msgstr "به‌رواری ده‌ستپیكردن"
+
+#: parts/dashboard/profile.php:15 parts/dashboard/profile.php:182
+msgid "تاريخ المغادرة"
+msgstr "به‌رواری كۆتایهێنان"
+
+#: parts/dashboard/profile.php:15
+msgid "الشهادة التي حصلت عليها"
+msgstr "ئەو بڕوانامەی بە دەستتهێناوە"
+
+#: parts/dashboard/profile.php:15 parts/dashboard/profile.php:130
+msgid "تاريخ التخرج"
+msgstr "به‌رواری ده‌رچوون"
+
+#: parts/dashboard/profile.php:27
+msgid " النشاطات و الدورات"
+msgstr " چالاكی و خوله‌كان"
+
+#: parts/dashboard/profile.php:31 parts/dashboard/profile.php:120 parts/dashboard/profile.php:122
+msgid "الموهلات العلمية و الشهادات"
+msgstr "بڕوانامە و ئاستی زانستی"
+
+#: parts/dashboard/profile.php:122 parts/dashboard/profile.php:173 parts/dashboard/profile.php:226
+#: parts/dashboard/profile.php:277
+msgid "أضف مؤهل جديد"
+msgstr "زیادكردنی ئاست"
+
+#: parts/dashboard/profile.php:129
+msgid "الشهادة"
+msgstr "بڕوانامه‌"
+
+#: parts/dashboard/profile.php:180
+msgid "نشاط/دورة"
+msgstr "چالاكی/خول"
+
+#: parts/dashboard/profile.php:224
+msgid "لمهارات و الخبرات"
+msgstr "شاره‌زابی و لێهاتوویی"
+
+#: parts/dashboard/profile.php:233
+msgid "المهارة/الخبرة"
+msgstr "شاره‌زا له‌ بواری"
+
+#: parts/dashboard/profile.php:284
+msgid "الإنجاز/الإصدار"
+msgstr "پڕۆژه‌ و به‌رهه‌م"
+
+#: parts/dashboard/profile.php:285
+msgid "التاريخ"
+msgstr "به‌روار"
+
+#: parts/dashboard/profile.php:325
+msgid ""
+"للحصول على وسام السيرة الذاتية يمكنك إرسال طلب بعد إكمال سيرتك الذاتية بمعلومات صحيحة مع رفع نسخة من "
+"هوية صادرة من جهة حكومية تحمل صورتك للتحقق من صحة طلبك."
+msgstr ""
+"بۆ بەدەستھێنانی مەدالیای سیڤی؛ پێویستە ئەم ڕێکارانە جێبەجێ بەکەی:\n"
+"١. پرکردنەوەی سیڤییەکەت بە زانیاری دروست.\n"
+"٢. ناسنامەیەک کە لەلایەنێکی فەرمی دەرچووبێت ھاوپێچ بکە.\n"
+"٣. زانیاری نادروست پێشکەش بکەی ھەژمارەکەت ڕادەگیرێت.\n"
+"٤. لێرەدا داواکارییەکەت پێشکەش بکە 👇🏿."
+
+#: parts/dashboard/profile.php:326
+msgid "إدخال أي معلومات غير صحيحة أو مضللة يعرض حسابك للحظر"
+msgstr "مەدالیای سیڤی وەردەگیرێتەوە ئەگەر زانیاری سیڤییەکەت بسڕیتەوە"
+
+#: parts/dashboard/profile.php:333
+msgid "تحميل الهوية"
+msgstr "ھاوپێچ كردنی ناسنامه‌"
+
+#: parts/dashboard/profile.php:345
+msgid "إرسال الطلب"
+msgstr "ناردنی داواكاری"
+
+#: parts/dashboard/profile.php:348
+msgid "للأسف ! لم تتم الموافقة على منحك وسام السيرة الذاتية. يمكنك مراسلة الإدارة للمزيد من المعلومات"
+msgstr ""
+"بەداخەوە! داواکارییەکەت بۆ بەدەستھێنانی مەدالیای ژیاننامە ڕەتکرایەوە، لەبەر نەبوونی مەرجی تەواو لە "
+"ژیاننامەکەت، بۆ زانیاری زیاتر پەیوەندی بە بەڕێوبەرایەتی ماڵپەڕ بکە"
+
+#: parts/dashboard/profile.php:351
+msgid "في طور المراجعة ..."
+msgstr "لە چاوەڕوانی دایە..."
+
+#: parts/dashboard/statistics.php:34
+msgid "كل نقاطك"
+msgstr "هه‌موو خاڵەكان"
+
+#: parts/dashboard/statistics.php:49
+msgid "كل مواضيع"
+msgstr "هه‌موو بابه‌ته‌كان"
+
+#: parts/dashboard/statistics.php:63
+msgid "رتبتك في لاناس"
+msgstr "پلەكه‌ت له‌ لاناس"
+
+#: parts/dashboard/statistics.php:77 parts/dashboard/statistics.php:140
+msgid "هذا الشهر"
+msgstr "مانگی پێشوو"
+
+#: parts/dashboard/statistics.php:78 parts/dashboard/statistics.php:141
+msgid "هذه السنة"
+msgstr "ساڵی پێشوو"
+
+#: parts/dashboard/statistics.php:92
+msgid "زيارات لموقعك"
+msgstr "سەردانی ماڵپەڕەكەت"
+
+#: parts/dashboard/statistics.php:106
+msgid "مواضيع موثقة"
+msgstr "بابه‌ته‌ پەسەند کراوه‌كان"
+
+#: parts/dashboard/statistics.php:108
+msgid "مواضيع حرة"
+msgstr "بابه‌ته‌ پەسەند نه‌کراوه‌كان"
+
+#: parts/dashboard/statistics.php:111
+msgid "مشاهدة المواضيع"
+msgstr "سه‌ردانی بابه‌ته‌كان"
+
+#: parts/dashboard/statistics.php:125
+msgid "قامو بنشر مواضيعك"
+msgstr "بڵاوكردنەوە لە تۆرەكان"
+
+#: parts/dashboard/statistics.php:136
+msgid "زوار حسب الدولة"
+msgstr "سەردانیكردن بە پێی وڵات"
+
+#: parts/dashboard/statistics.php:149
+msgid "عدد الزوار"
+msgstr "ژماره‌ی سه‌ردان"
+
+#: parts/dashboard/statistics.php:150
+msgid "مواضيع موتوقة"
+msgstr "بابه‌ته‌ سەلمێنراووه‌كان"
+
+#: parts/dashboard/statistics.php:151
+msgid "مواضيع غير موتوقة"
+msgstr "بابه‌ته‌ نەسەلمێنراوویەكان"
+
+#: parts/dashboard/statistics.php:185
+msgid "إحصائيات المواضيع"
+msgstr "سەرژمێری بابەتەكان"
+
+#: parts/dashboard/statistics.php:188
+msgid "أكثر مشاهدة"
+msgstr "زۆرترین بینراو"
+
+#: parts/dashboard/statistics.php:189
+msgid "أكثر تقييما"
+msgstr "زۆرترین هەڵسەنگێندراو"
+
+#: parts/dashboard/statistics.php:190
+msgid "أكثر إعجابا"
+msgstr "زۆرترین لایك"
+
+#: parts/dashboard/statistics.php:191
+msgid "أكثر مشاركة"
+msgstr "زۆرترین بڵاوكردنەوە"
+
+#: parts/language-settings-modal.php:9
+msgid "إعدادات اللغة"
+msgstr "ڕێکخستنەکانی زمان"
+
+#: parts/language-settings-modal.php:15
+msgid "لغة العرض"
+msgstr "زمانی پێشاندانی ماڵپەڕ"
+
+#: parts/language-settings-modal.php:15
+msgid ""
+"يؤدي هذا إلى تغيير اللغة التي يتم فيها عرض الموقع بهذه اللغة.. ولن تتغير (لغة المحتوى) التي تظهر عندك"
+msgstr "لێرەدا زمانی پێشاندانی ماڵپەڕ دەگوڕێت، زمانی بابەتەكانی ماڵپەڕ ناگۆڕێت"
+
+#: parts/language-settings-modal.php:23
+msgid "لغة المحتوى"
+msgstr "زمانی بابەتەكانی ماڵپەڕ"
+
+#: parts/language-settings-modal.php:23
+msgid ""
+"يؤدي هذا إلى تغيير لغة المحتوى المقترح قراءتها من قبلك.. ولن تتغير (لغة العرض)التي يتم فيها عرض الموقع"
+msgstr "لێرەدا زمانی بابەتەكانی ماڵپەڕ دەگوڕێت، زمانی پێشاندانی ماڵپەڕ ناگۆڕێت"
+
+#: parts/media-uploader.php:21 parts/media-uploader.php:32
+msgid "مكتبة الوسائط"
+msgstr "كۆگای وێنه‌ و فایله‌كان"
+
+#: parts/media-uploader.php:38
+msgid "رفع ملفات"
+msgstr "به‌رزكرنه‌وه‌ی فایل"
+
+#: parts/media-uploader.php:56
+msgid "ملفاتي"
+msgstr "كۆگای وێنه‌كانی من"
+
+#: parts/media-uploader.php:57
+msgid "معرض"
+msgstr "كۆگای وێنه‌كانی لاناس"
+
+#: parts/media-uploader.php:58
+msgid "معرض 2"
+msgstr "كۆگای وێنه‌كانی ئه‌ندامان"
+
+#: parts/media-uploader.php:62
+msgid " إبحث عن ملف "
+msgstr " بگەڕێ‌ لە فایل "
+
+#: parts/media-uploader.php:67
+msgid "إختر صورة مناسبة لموضوعك. إن لم تجد إرفع صورة جديدة"
+msgstr "لێرە👇🏿به‌ ھەزاران وێنە ھەن؛ تکایە وێنەیەکی گونجاو بۆ بابەتەکەت ھەڵبژێرە"
+
+#: parts/media-uploader.php:82
+msgid "للعثور على صورة مناسبة لموضوعك إستفد من هذا الموقع"
+msgstr "بۆ دەستكەوتنی وێنەیەكی گونجاو سوود لەو پێگەیە وەرگرە"
+
+#: parts/media-uploader.php:82
+msgid "هنا"
+msgstr "لێرە"
+
+#: parts/media-uploader.php:85
+msgid "إسحب ملفات لرفعها,أو"
+msgstr "ئەو فایلەی دەتەوێت بەرزی کەیەوە ڕای بکێشە بۆ ئێرە، یان"
+
+#: parts/media-uploader.php:90
+msgid "اختر ملف"
+msgstr "فایل هەڵبژێرە"
+
+#: parts/media-uploader.php:103
+#, php-format
+msgid "الحد الأقصى لرفع الملفات %s ميغا بابت. الإمتدادت المسموح بها %s"
+msgstr "تا (%s) میگابایت دەتوانی بەرز بکەیتەوە.. ئەو فایلانە ڕێگا پێدراون (%s)"
+
+#: parts/media-uploader.php:104
+msgid "برفعك لهذا الملف فأنت توافق على"
+msgstr "بە بەرزكرنەوەی هه‌ر فایلێك دەكات ڕەزامەندیت تواندووە لەسەر"
+
+#: parts/media-uploader.php:115
+msgid "تفاصيل المرفق"
+msgstr "زانیاری فایل"
+
+#: parts/media-uploader.php:124
+msgid "حدف الملف"
+msgstr "سڕینەوە"
+
+#: parts/media-uploader.php:134
+msgid "إدارج الملف"
+msgstr "بینێره‌"
+
+#: parts/post/article.php:2 parts/post/author_article.php:5 parts/post/book.php:12
+#: parts/post/dictionary.php:6 parts/post/image.php:2 parts/post/name.php:6 parts/post/quote.php:2
+#: parts/post/research.php:20 parts/post/video.php:6
+msgid "فروع الأقسام"
+msgstr "لقی به‌شه‌كان"
+
+#: parts/post/article.php:18 parts/post/author_article.php:22 parts/post/image.php:19
+#: parts/post/video.php:22
+msgid "عنوان الموضوع"
+msgstr "ناونیشانی  بابەت"
+
+#: parts/post/article.php:22 parts/post/author_article.php:31 parts/post/book.php:85
+#: parts/post/image.php:23 parts/post/post-slices.php:154 parts/post/research.php:61
+#: parts/post/video.php:40
+msgid "إضافة صورة"
+msgstr "وێنەیەك بەرزكەوە"
+
+#: parts/post/article.php:24
+msgid "محتوى المقال"
+msgstr "ناوەڕۆكی بابەت"
+
+#: parts/post/author_article.php:27
+msgid "كاتب(ة)ا"
+msgstr "نووسه‌ر"
+
+#: parts/post/author_article.php:33
+msgid "محتوى الموضوع"
+msgstr "ناوەڕۆكی بابەت"
+
+#: parts/post/book.php:29 parts/post/research.php:36 parts/single-post/book.php:13
+msgid "عنوان الكتاب"
+msgstr "ناوی کتـــێب"
+
+#: parts/post/book.php:35 parts/post/research.php:44
+msgid "إسم المؤلف"
+msgstr "ناوی نووسەر"
+
+#: parts/post/book.php:40 parts/post/research.php:51
+msgid "إسم المترجم"
+msgstr "ناوی وەرگــێڕ"
+
+#: parts/post/book.php:46 parts/single-post/book.php:16
+msgid "سنة النشر"
+msgstr "ســـاڵی چاپ"
+
+#: parts/post/book.php:54
+msgid "تحميل رابط الكتاب"
+msgstr "باركردنی كتێب"
+
+#: parts/post/book.php:55
+msgid "يمكنك(ي) إضافة عدة أجزاء من الكتاب"
+msgstr "ئەگەر كتێبەكە چەن بەرگ بێت دەتوانی باری بكەی"
+
+#: parts/post/book.php:56
+msgid "رفع كتاب"
+msgstr "باركردنی كتێب"
+
+#: parts/post/book.php:64
+msgid "أو"
+msgstr "یان"
+
+#: parts/post/book.php:87
+msgid "وصف الكتاب"
+msgstr "کورتە باسی کتێب"
+
+#: parts/post/dictionary.php:23 parts/post/name.php:23
+msgid "الإسم أو الكلمة"
+msgstr "ناو یان وشه‌"
+
+#: parts/post/dictionary.php:29 parts/post/name.php:53
+msgid "معنى الإسم أو الكلمة"
+msgstr "مانای ناو یان وشه‌"
+
+#: parts/post/history.php:3
+msgid "الوفيات"
+msgstr "لەدایک بوون و مردنی ئەمڕۆ"
+
+#: parts/post/history.php:4
+msgid "أحداث اليوم"
+msgstr "ڕووداوی ئه‌مرۆ"
+
+#: parts/post/history.php:5
+msgid "مناسبات"
+msgstr "بۆنه‌كانى ئەمرۆ"
+
+#: parts/post/history.php:9 parts/posts/history.php:8 posts.php:25
+msgid "هجري"
+msgstr "كۆچی"
+
+#: parts/post/history.php:10 parts/posts/history.php:9 posts.php:26
+msgid "ميلادي"
+msgstr "زایینی"
+
+#: parts/post/history.php:11 parts/posts/history.php:10 posts.php:27
+msgid "كردي"
+msgstr "كوردی"
+
+#: parts/post/history.php:22
+msgid "تصنيف"
+msgstr "پۆلێن"
+
+#: parts/post/history.php:24
+msgid "إختر تصنيف"
+msgstr "پۆلێن هەڵبژێرە"
+
+#: parts/post/history.php:32 posts.php:98
+msgid "نوع التاريخ"
+msgstr "جۆری به‌روار"
+
+#: parts/post/history.php:34
+msgid "كردي, هجري, ميلادي"
+msgstr "كوردی, كۆچی, زایینی"
+
+#: parts/post/history.php:42
+msgid "إختيار التاريخ"
+msgstr "هەڵبژێردنی به‌روار"
+
+#: parts/post/history.php:45
+msgid "أكتب السنة"
+msgstr "ساڵ بنووسە"
+
+#: parts/post/history.php:49 posts.php:104
+msgid "إختر الشهر"
+msgstr "مانگ هەڵبژێرە"
+
+#: parts/post/history.php:63
+msgid "أكتب اليوم"
+msgstr "ڕۆژ بنووسە"
+
+#: parts/post/history.php:69
+msgid "الأحداث"
+msgstr "ڕووداوەكان"
+
+#: parts/post/name.php:29
+msgid "إختر الجنس للإسم"
+msgstr "ڕەگەز بۆ ناو هەڵبژێرە"
+
+#: parts/post/name.php:46 posts.php:201
+msgid "كلاهما"
+msgstr "هه‌ردووكی"
+
+#: parts/post/post-slices.php:65
+msgid "صورة"
+msgstr "وێنە"
+
+#: parts/post/post-slices.php:79 parts/post/research.php:96 parts/post/research.php:113 post.php:275
+msgid "نص"
+msgstr "ده‌ق"
+
+#: parts/post/post-slices.php:83
+msgid "تضمين"
+msgstr "لكاندنی لینك"
+
+#: parts/post/post-slices.php:87
+msgid "خرائط"
+msgstr "نه‌خشه‌"
+
+#: parts/post/post-slices.php:91
+msgid "تصويت"
+msgstr "ده‌نگدان"
+
+#: parts/post/post-slices.php:95
+msgid "مسابقة"
+msgstr "پێشبڕكێ‌"
+
+#: parts/post/post-slices.php:104
+msgid "من هنا تستطيع إضافة شرائح للمحتوى المنشور"
+msgstr "لێرەوە دەتوانی ناوەڕۆك بۆ بابەتەكان زیاد بكەی"
+
+#: parts/post/post-slices.php:163
+msgid "ألصق رابط المحتوى"
+msgstr "لینكەكە لێرە دابنێ‌"
+
+#: parts/post/post-slices.php:170
+msgid "رابط الخريطة"
+msgstr "لینكی نه‌خشه‌"
+
+#: parts/post/post-slices.php:179
+msgid "خيارات التصويت"
+msgstr "هەڵسەنگاندنەكان"
+
+#: parts/post/post-slices.php:186
+msgid "إضافة إستطلاع"
+msgstr "زیادكردنی ده‌نگدان"
+
+#: parts/post/post-slices.php:194
+msgid "الأجوبة المقترحة"
+msgstr "وەڵامەكان"
+
+#: parts/post/post-slices.php:202
+msgid "أضف جواب"
+msgstr "زیادكردنی وەڵام"
+
+#: parts/post/post-slices.php:235
+msgid "صحيح"
+msgstr "وەڵامی ڕاست"
+
+#: parts/post/post-thumbnail.php:44
+msgid " الحجم الأدنى لحجم الصورة "
+msgstr " قەبارەی وێنە "
+
+#: parts/post/post-thumbnail.php:52
+msgid "أنقر لإضافة صورة"
+msgstr "ئێرە داگرە بۆ باركردنی وێنە"
+
+#: parts/post/quote.php:18
+msgid "إسم صاحب المقولة"
+msgstr "ناوی خاوه‌ن وته‌"
+
+#: parts/post/quote.php:23
+msgid "المقولة"
+msgstr "وته‌"
+
+#: parts/post/research.php:58 parts/single-post/research.php:34
+msgid "دار النشر"
+msgstr "چاپخانه‌"
+
+#: parts/post/research.php:65
+msgid "صفحات متتالية مثل الكتاب"
+msgstr "ئەو پەڕانە دوای یەك دێن وەك كتێب"
+
+#: parts/post/research.php:66
+msgid "إضافة صفحة أخرى"
+msgstr "زیادكردنی پەڕه‌یه‌كی تر"
+
+#: parts/post/research.php:87
+msgid "عنوان الصفحة.. فإن لم يوجد عنوان تتركه فارغا, فتكون صفحة تابعة لما قبلها "
+msgstr "ناونیشانی پەڕە.. ئەگەر ناونیشان نیە بە بەتاڵی جێی بهێڵە دەبێتە پاشكۆی پەڕەی پێشوو "
+
+#: parts/post/research.php:99 parts/post/research.php:116 post.php:278
+msgid "رابط المصدر"
+msgstr "لینكی سه‌رچاوه‌"
+
+#: parts/post/research.php:105 post.php:194
+msgid "أضف مصدر"
+msgstr "سه‌رچاوه‌كان بنووسه‌"
+
+#: parts/post/video.php:27
+msgid "رابط الفيديو"
+msgstr "لینكی ڤیدیۆ"
+
+#: parts/post/video.php:42
+msgid "وصف الفيديو"
+msgstr "پێناسەی ڤیدیۆ"
+
+#: parts/post/video.php:52
+msgid "هل تريد إستعمال هذه الصورة ؟"
+msgstr "دەتەوێت ئەو وێنەیە بەكاربهێنی؟"
+
+#: parts/post/video.php:54
+msgid "نعم"
+msgstr "بەڵێ‌"
+
+#: parts/post/video.php:55
+msgid "لا شكرا"
+msgstr "نەخێر"
+
+#: parts/posts/history.php:20
+msgid "ظهور أحداث موافق لليوم"
+msgstr "پیشاندانی ڕووداوەكانی هاوتای ئەمرۆیە"
+
+#: parts/signin-modal.php:8
+msgid "انضم إلى مجتمع مدهش لدينا"
+msgstr "بەژداربە له‌ جیهانی سەرسوڕهێنەر"
+
+#: parts/signin-modal.php:12 signin.php:128
+msgid "تسجيل الدخول عبر فيسبوك"
+msgstr "تۆماركردن لە ڕێگای فەیسبوك"
+
+#: parts/signin-modal.php:13 signin.php:129
+msgid "تسجيل الدخول عبر تويتر"
+msgstr "تۆماركردن لە ڕێگای ئێكس"
+
+#: parts/signin-modal.php:14
+msgid "تسجيل الدخول بالبريد الإلكتروني"
+msgstr "تۆماركردن لە ڕێگای ئیمیه‌ل"
+
+#: parts/signin-modal.php:18
+msgid "لا يوجد لديك حساب ؟"
+msgstr "هه‌ژمارت هه‌یه‌؟"
+
+#: parts/signin-modal.php:18
+msgid "سجل حسابك"
+msgstr "خۆت تۆماربكه‌"
+
+#: parts/single-post/book.php:14
+msgid "اسم المؤلف"
+msgstr "ناوی نووسەر"
+
+#: parts/single-post/book.php:15
+msgid "مُترجم"
+msgstr "ناوی وەرگــێڕ"
+
+#: parts/single-post/book.php:17 parts/single-post/research.php:81
+msgid "صفحات"
+msgstr "ژ / پەڕەکــــان"
+
+#: parts/single-post/book.php:18
+msgid "عدد معاينة الكتاب"
+msgstr "ژمارەی بینینی كتێب"
+
+#: parts/single-post/book.php:19
+msgid "عدد تحميل الكتاب"
+msgstr "ژمارەی داگرتنی كتێب"
+
+#: parts/single-post/book.php:23
+msgid "معاينة الكتاب"
+msgstr "خوێندنه‌وه‌ >"
+
+#: parts/single-post/book.php:29 parts/single-post/book.php:32 parts/single-post/book.php:44
+#: parts/single-post/book.php:47
+msgid "رابط"
+msgstr "ئێرە داگرە"
+
+#: parts/single-post/book.php:38
+msgid "تحميل الكتاب"
+msgstr "دابه‌زاندن >"
+
+#: parts/single-post/research.php:29
+msgid "مؤلف"
+msgstr "نووسه‌ر"
+
+#: parts/single-post/research.php:31
+msgid "مترجم"
+msgstr "ناوی وەرگــێڕ"
+
+#: parts/single-post/research.php:46 single-post.php:265
+msgid "المصادر"
+msgstr "سه‌رچاوه‌كان"
+
+#: parts/single-post/research.php:60 single-post.php:280
+msgid "المعذرة ! رتبتك لا تسمح لك بالإطلاع على المصادر"
+msgstr "ببورە! پله‌كه‌ت نزمه‌‌ ناتوانای سەرچاوەكان ببینیت"
+
+#: parts/single-post/research.php:63 single-post.php:283
+msgid "قم بتسجيل الدخول لكي تتمكن من رؤية المصادر"
+msgstr "بۆ بینینی سەرچاوەكان پێویسته‌ خۆت تۆمار بكەی"
+
+#: post.php:123
+msgid "إغلاق الصفحة"
+msgstr "داخستنی پەڕە"
+
+#: post.php:141
+msgid "المنشور  بإنتظار الموافقة"
+msgstr ""
+"ئەم بابەتە لە چاوەڕوانی پێداچوونەوە دایە؛ ئەگەر شیاوی بڵاوکردنەوە نەبێت، لێرەدا ھۆکارەکەی "
+"ڕووندەکەینەوە، بۆیە تکایە سەردانی ئەم پەڕەیە بکە"
+
+#: post.php:144
+msgid "المنشور بإنتظار المراجعة"
+msgstr "ئەو بابەتە لە چاوەڕوانی پێداچوونەوە دایە"
+
+#: post.php:153 single-post.php:36
+msgid "المنشور مغلق حاليا"
+msgstr "بەھۆی نەبوونی مەرجی پێویست ئەم بابەتە لە ئێستادا ھەڵپەسێردراوە"
+
+#: post.php:159
+msgid "إجباري"
+msgstr "پێویستە"
+
+#: post.php:169
+msgid "تعديلات"
+msgstr "دەستکارییەکان"
+
+#: post.php:170
+msgid "الكتابة بالأحمر تم حدفها وتعويضها بالكتابة بالأخضر"
+msgstr "نووسینە سورەکان سڕاوەتەوە و لە شوێنی ئەو سەوزەکە دانراوە"
+
+#: post.php:180
+msgid "الكلمات المفتاحية"
+msgstr "وشە بنووسە بۆ # هاشتاگ"
+
+#: post.php:193
+msgid "مصادر المنشور"
+msgstr "سه‌رچاوه‌كانی بابه‌ت"
+
+#: post.php:211
+msgid "حفظ كمسودة"
+msgstr "پاشەكەوتكردنی بۆ گەڵاڵە"
+
+#: post.php:218
+msgid "إضافة إلى سلايدر"
+msgstr "زیادیكه‌ بۆ سلايدر"
+
+#: post.php:224
+msgid "إضافة إلى مميز"
+msgstr "زیادیكه‌ بۆ هەڵبژێردراوەكان"
+
+#: post.php:230
+msgid "منع النسخ"
+msgstr "ڕێگری كردن لە كۆپی"
+
+#: post.php:237
+msgid "تعطيل التعليقات"
+msgstr "لە كارخستنی كۆمێنت"
+
+#: posts.php:71
+msgid "التصنيف الإفتراضي"
+msgstr "پۆلێنی پێشوو"
+
+#: posts.php:73
+msgid "التصنيف الشجري"
+msgstr "پۆلێنی دره‌ختی"
+
+#: posts.php:114
+msgid "أدخل اليوم"
+msgstr "ئەمڕۆ بنووسە"
+
+#: reset_password.php:21 reset_password.php:30
+msgid "تعيين كلمة مرور جديدة"
+msgstr "دیاریكردنی وشەی نهێنی نوێ‌"
+
+#: reset_password.php:34
+msgid "كلمة المرور الجديدة"
+msgstr "وشەی نهێنی نوێ"
+
+#: reset_password.php:45
+msgid "تغيير"
+msgstr "گۆڕین"
+
+#: search.php:20
+#, php-format
+msgid "نتائج البحث عن %s"
+msgstr "ئەنجامی گەڕان له‌ %s"
+
+#: signin.php:106
+msgid "الإسم أو البريد الإلكتروني"
+msgstr "ناو یان ئیمەیل بنووسە"
+
+#: signin.php:118
+msgid "إسترجاع كلمة المرور ؟"
+msgstr "كەڕاندنەوەی وشەی نهێنی؟"
+
+#: signin.php:123 signup.php:95
+msgid "تسجيل"
+msgstr "تۆماركردن"
+
+#: signup.php:11 signup.php:21
+msgid "تسجيل حساب جديد"
+msgstr "تۆماركردنی هه‌ژماری نوێ"
+
+#: signup.php:104
+msgid "التسجيل معطل حاليا"
+msgstr ""
+"لە ئێستادا خۆ نۆماركردن ڕاگیراوە\n"
+"<div id=\"Card2-card-item0\"><a href=\"https://www.laanas.net/page/35/"
+"%D8%AE%DB%86%20%D8%AA%D8%A7%D9%85%D8%A7%D8%B1%20%DA%A9%D8%B1%D8%AF%D9%86\" target=\"_blank\">بۆ "
+"زانیاری زیاتر سەردانی ئێرە بکە</a></div>"
+
+#: single-post.php:30
+msgid "المنشور بإنتظار الموافقة حاليا"
+msgstr ""
+"ئەم بابەتە لە چاوەڕوانی پێداچوونەوە دایە؛ ئەگەر شیاوی بڵاوکردنەوە نەبێت، لێرەدا 👇🏿 ھۆکارەکەی "
+"ڕووندەکەینەوە، بۆیە تکایە سەردانی ئەم پەڕەیە بکە"
+
+#: single-post.php:33
+msgid "المنشور  بإنتظار المراجعة حاليا"
+msgstr "ئەم بابەتە لە چاوەڕوانی پێداچوونەوە دایە"
+
+#: single-post.php:176
+msgid "إرسال"
+msgstr "بینێرە"
+
+#: single-post.php:240
+msgid "كاتب(ة)"
+msgstr "نووسه‌ر"
+
+#: single-post.php:483
+msgid "مواضيع ذات صلة"
+msgstr "بابه‌تی په‌یوه‌ندیدار"
+
+#: user.php:26
+msgid "حساب هذا المستخدم محظور"
+msgstr "هەژماری ئەم بەكارهێنەرە ڕاگیراوە"
+
+#: user.php:227
+msgid "حائط المواضيع"
+msgstr "كۆگای بابه‌ته‌كان"
+
+#: user.php:234 user.php:248
+msgid "مشاركات الأعضاء"
+msgstr "بابه‌تی ئه‌ندامان"
+
+#: user.php:237 user.php:249
+msgid "مشاركات من الأقسام"
+msgstr "به‌شداری به‌شه‌كان"
+
+#: user.php:240 user.php:250
+msgid "مفضلتي"
+msgstr "دڵخوازەكانم"
+
+#: user.php:243 user.php:251
+msgid "مواضيع مميزة"
+msgstr "بابەتی هەڵبژێردراو"
+
+#: user.php:255
+msgid "مواضيع جديدة لصاحب الملف"
+msgstr "بابەتی نوێیه‌كانی"
+
+#: user.php:312 user.php:317
+msgid "السيرة الذاتية"
+msgstr "ژیاننامه‌‌ CV"
+
+#: user.php:326
+msgid "الاعضاء - المتابعون"
+msgstr "شوێنكەوتووەكانت"
+
+#: user.php:331
+msgid "الأعضاء المتابعون"
+msgstr "هاوڕێیه‌كانی"
+
+#: user.php:344
+msgid "لايوجد أي متابعين"
+msgstr "هیچ شوێنكەوتوویەك نیە"
+
+#: user.php:349
+msgid "تصنيف لكل مواضيع"
+msgstr "پۆلێنی بابەتەكان"
+
+#: user.php:354
+msgid "تصنيف لكل المواضيع"
+msgstr "پۆلێنی هەموو بابەتەكان"
+
+#: user.php:408 user.php:413
+msgid "الأوسمة"
+msgstr "مه‌دالیاكان"
+
+#: users.php:25
+msgid "إبحث عن عضو"
+msgstr "بگەڕی لە ئەندام"
+
+#: users.php:29
+msgid "ترتيب حسب"
+msgstr "ڕیوبەندی بە پێی"
+
+#: users.php:31
+msgid "أكثر مواضيع"
+msgstr "زۆرترین بابه‌ت"
+
+#: users.php:32
+msgid "أكثر نقاط"
+msgstr "زۆرترین خال"
+
+#: users.php:33
+msgid "أكثر متابعين"
+msgstr "زۆرترین شوێنكەوتوو"
+
+#: users.php:34
+msgid "أكثر قراء للمواضيع"
+msgstr "زۆرترین بابەتی خوێندراوە"
+
+#: users.php:35
+msgid "أكثر مواضيع مشاركة"
+msgstr "زۆرترین بابەتی بڵاوكراوە"
+
+#~ msgid "المعذرة ! حدث خطأ المرجو إعادة المحاولة مرة أخرى"
+#~ msgstr "ببورە! هەڵەیەك هەیە! تكایە جارێكی تر هەوڵ بده‌ره‌وه‌"
+
+#~ msgid "المدونون "
+#~ msgstr "ئه‌ندامه‌كان "
+
+#~ msgid "لم يتم حدف بعض المواضيع"
+#~ msgstr "ببورە! هەندێ‌ بابەت نەسڕاوە"
+
+#~ msgid "تعليقات"
+#~ msgstr "كۆمێنتەكان"
+
+#~ msgid "من الأقدم إلى الأحدث"
+#~ msgstr "كۆن"
+
+#~ msgid "من الأحدث إلى الأقدم"
+#~ msgstr "نوێ‌"
+
+#~ msgid "موثقة "
+#~ msgstr "وردبینكراو "
+
+#~ msgid "جميع الحقوق محفوظة ل %s %s"
+#~ msgstr "هه‌موو مافی پاریزراوه‌ بۆ %s %s"
+
+#~ msgid "مواضيع مدققة"
+#~ msgstr "بابه‌ته‌ وردبینكراوه‌كان"
+
+#~ msgid "مدققة"
+#~ msgstr "وردبینكراو"
+
+#~ msgid "مدققة "
+#~ msgstr "وردبینكراو "
+
+#~ msgid "الأعضاء"
+#~ msgstr "ئه‌ندامه‌كان"
+
+#~ msgid "عدد الأعضاء"
+#~ msgstr "ژماره‌ی ئه‌ندامه‌كان"
+
+#~ msgid "أعضاء مميزين"
+#~ msgstr "ئەندامە چالاكەكان"
+
+#~ msgid "موثوق"
+#~ msgstr "سه‌وز"
+
+#~ msgid "غير موثوق"
+#~ msgstr "ڕەساسی"
+
+#~ msgid "مواضيع غير موثوقة"
+#~ msgstr "بابه‌ته‌ ڕەساسیه‌كان"
+
+#~ msgid "موثوق / غير موثوق"
+#~ msgstr "سه‌وز / ڕەساسی"
+
+#~ msgid "موقوق"
+#~ msgstr "سه‌وز"
+
+#~ msgid "اعدادات الملف الشخصي(CV)"
+#~ msgstr "ڕێكخستنی سیڤیه‌كه‌ت (CV)"
+
+#~ msgid "اعدادات الشبكة الإجتماعية"
+#~ msgstr "ڕێكخستنی تۆڕەكان"
+
+#~ msgid "اعدادات المشاركات"
+#~ msgstr "ڕێكخستنی بابه‌ته‌كان"
+
+#~ msgid "الإسم"
+#~ msgstr "ناو"
+
+#~ msgid "اسم المستخدم"
+#~ msgstr "ناونیشان"
+
+#~ msgid "تاريخ الإزدياد"
+#~ msgstr "به‌رواری له‌ دیك بوون"
+
+#~ msgid "الإسم الكامل"
+#~ msgstr "ناوت بنووسه‌"
+
+#~ msgid "المستوى"
+#~ msgstr "پله‌"
+
+#~ msgid "العنوان"
+#~ msgstr "ناونشان"
+
+#~ msgid "إسم الكاتب"
+#~ msgstr "ناوی نووسه‌ر"
+
+#~ msgid "ألغى المتابعة"
+#~ msgstr "شوێنکەوتنی لابرد"
+
+#~ msgid "المعذرة ! الإسم قصير"
+#~ msgstr "بببورە! ئه‌و ناوه‌ كورتە"
+
+#~ msgid "هل متأكد أنك تريد حدف حسابك ؟"
+#~ msgstr "ئایا دڵنیای دەتەوێت هەژمارەكەت بسڕییەوە؟"
+
+#~ msgid "إشعارات الرد"
+#~ msgstr "ئاگاداری لایك"
+
+#~ msgid "إشعارات إلغاء الإشتراك"
+#~ msgstr "ئاگادری لابردنی شوێنکەوتن"
+
+#~ msgid "إشعارات البريد الإلكتروني"
+#~ msgstr "ئاگاداری ناردن بۆ ئیمه‌یل"
+
+#~ msgid "الأخير"
+#~ msgstr "كۆتای"
+
+#~ msgid "المشهور"
+#~ msgstr "دیار"
+
+#~ msgid "فروع القسم"
+#~ msgstr "لقی به‌شه‌كان"
+
+#~ msgid "الكتابة تحتها سطر هي التعديل الجديد"
+#~ msgstr "ئەوە نووسینانەی خەتی لە ژێردایە  دەستكاری كراوە"
+
+#~ msgid "بإرسالك لهذه الرسالة فأنت توافق على شروط و قوانين الموقع"
+#~ msgstr "به‌ ناردنی ئه‌و په‌یامه‌ واته‌ تۆ ره‌زامه‌ندیت نواندووه‌ له‌سه‌ر یاسا و ڕێنمایه‌كانی ماڵپەڕ"
+
+#~ msgid "مُحتوى فيه تدواول أعمال خطيرة, ضارة أو مُؤذية"
+#~ msgstr "ئه‌و بابه‌ته‌ شتی ترسناك وزیانبه‌خشی تیایه"
+
+#~ msgid "لغة عرض الموقع"
+#~ msgstr "بۆ پێشاندانی ڕوكەشی ماڵپەڕ بەو زمانە"
+
+#~ msgid "لغة المحتوى المراد تصفحه. يمكن ترك الكل لتصفح المحتوى بكل اللغات."
+#~ msgstr "بۆخوێندنەوەی بەبەتەكانی ماڵپەر بەو زمانە.  بۆ پێشاندانی گست زمانەكان هەموو هەڵبژێرە."
+
+#~ msgid "التسجيل معطل حاليا."
+#~ msgstr "لە ئێستادا خۆ نۆماركردن ڕاگیراوە"
+
+#~ msgid "معرض الصور"
+#~ msgstr "كۆگای وێنە"
+
+#~ msgid "النشور مغلق حاليا"
+#~ msgstr "ئەو بابەتە لە ئێستادا هەڵپەسێردراوە"

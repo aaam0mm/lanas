@@ -1,0 +1,15 @@
+body {
+	direction:rtl;
+	text-align: inherit;
+}
+
+.home-images-section.slick-slider,.home-images-section-nav.slick-slider,.home-videos-section.slick-slider,.home-videos-section-nav.slick-slider {
+    direction:ltr;
+}
+.slick-content {
+    direction:rtl;
+}
+
+.home-wisdom-section .wisdom-text {
+    margin-left:50px;
+}

@@ -1,0 +1,6 @@
+Starting scraping process for ID: 27
+Post type: book
+URL to scrape: https://archive.org/details/booksbylanguage
+WebDriver initialized successfully
+Processing archive.org URL: https://archive.org/details/booksbylanguage
+Scraping completed for ID 27. Success: 3, Fails: 0, Exists: 0

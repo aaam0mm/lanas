@@ -1,0 +1,7 @@
+Starting scraping process for ID: 18
+Post type: book
+URL to scrape: https://archive.org/details/booksbylanguage_kurdish
+WebDriver initialized successfully
+Processing archive.org URL: https://archive.org/details/booksbylanguage_kurdish
+Failed to download PDF: Operation timed out after 59278 milliseconds with 2326276 out of 3363825 bytes received
+Scraping completed for ID 18. Success: 15, Fails: 0, Exists: 0

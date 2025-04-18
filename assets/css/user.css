@@ -1,0 +1,70 @@
+#myTabContent > .tab-content {
+	overflow:auto;
+}
+.nav-posts {
+	
+}
+.nav-posts .nav-link {
+	
+}
+.nav-posts .nav-link.active, .nav-posts .show > .nav-link {
+    color: #fff !important;
+    background-color: #8fcd00;
+}
+.profile-post-abs {
+	background-color:rgba(0,0,0,0.2);
+}
+.profile-cv-picture img {
+	max-width:260px;
+}
+.progress-user-profile {
+	height:2rem;
+	font-size:1.3rem;
+}
+.post-details {
+    display: none;
+}
+.tab-profile-toggler {
+	background-color: #007bff;
+	padding: 0.75rem;
+	margin-bottom:1rem;
+	font-size:1.3rem;
+	color:#fff;
+}
+.tab-profile-toggler img {
+	width:32px;
+	height:32px;
+}
+.widget-profil {
+	height:auto;
+}
+ .nav-prf {
+
+ }
+ 
+ .widget-profil > .first-col {
+    overflow-x:hidden;
+    overflow-y:auto;
+ }
+ .badges img {
+     width:68px;
+ }
+ 
+ .profil-badges img {
+     width:38px;
+ }
+ .profile-user-post-thumb {
+     height:360px;
+ }
+/* Medium devices (tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+	.widget-profil {
+		height:540px;
+	}
+}
+
+@media only screen and (max-width: 992px) {
+	.widget-profil.widget-profile-user {
+		height:auto;
+	}
+}

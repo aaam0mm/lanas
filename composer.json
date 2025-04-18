@@ -1,0 +1,27 @@
+{
+    "name": "echoart/laanas",
+    "type": "project",
+    "autoload": {
+		"classmap": [
+		  "inc/classes/"
+		],
+		"files": [
+			"functions.php"
+		]
+	},
+	
+    "minimum-stability": "dev",
+    "require": {
+		"atk4/dsql": "^1.2",
+        "mpratt/embera": "dev-master",
+        "opencafe/datium": "dev-master",
+		"phpmailer/phpmailer": "~6.0",
+		"hybridauth/hybridauth" : "~3.0",
+        "php-webdriver/webdriver": "dev-main",
+        "smalot/pdfparser": "dev-master",
+        "setasign/fpdi": "dev-master",
+        "setasign/fpdf": "dev-master",
+        "tecnickcom/tcpdf": "dev-main",
+        "spatie/pdf-to-text": "dev-main"
+	}
+}

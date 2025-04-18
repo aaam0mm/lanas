@@ -1,0 +1,7 @@
+Starting scraping process for ID: 30
+Post type: book
+URL to scrape: https://archive.org/details/booksbylanguage
+WebDriver initialized successfully
+Processing archive.org URL: https://archive.org/details/booksbylanguage
+Failed to download PDF: Operation timed out after 59249 milliseconds with 23559652 out of 30461453 bytes received
+Failed to download PDF: Operation timed out after 59251 milliseconds with 11386466 out of 19071426 bytes received

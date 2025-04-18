@@ -1,0 +1,8 @@
+Starting scraping process for ID: 42
+Post type: article
+URL to scrape: https://nrttv.com/nrt2/Babetekan.aspx?MapID=1
+WebDriver initialized successfully
+Navigating to URL: https://nrttv.com/nrt2/Babetekan.aspx?MapID=1
+Failed to download image: The requested URL returned error: 404
+Failed to download image: The requested URL returned error: 404
+Scraping completed for ID 42. Success: 1, Fails: 0, Exists: 0

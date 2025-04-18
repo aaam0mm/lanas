@@ -1,0 +1,2158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-12-20 14:00+0100\n"
+"PO-Revision-Date: 2018-12-21 23:25+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _t\n"
+"Last-Translator: \n"
+"Language: tr_TR\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ajax/ajax-html.php:207 index.php:243 parts/posts/history.php:51
+msgid "في مثل هذا اليوم"
+msgstr "Bu gün"
+
+#: ajax/ajax-html.php:220 index.php:256 parts/posts/history.php:64
+msgid "وفيات اليوم"
+msgstr "Bugünün ölümleri"
+
+#: ajax/ajax-html.php:232 index.php:268 parts/posts/history.php:76
+msgid "مناسبات اليوم"
+msgstr "Etkinlikler bugün"
+
+#: ajax/functions.php:31
+msgid "المرجو رفع إتباث الهوية"
+msgstr "Lütfen kimliği atpath kaldırın"
+
+#: ajax/functions.php:39
+msgid "تم إرسال الطلب بنجاح"
+msgstr "Istek başarıyla gönderildi"
+
+#: ajax/functions.php:154
+msgid "المرجو التأكد من الرمز"
+msgstr "Lütfen kod emin olun"
+
+#: ajax/functions.php:159
+msgid "المرجوالتأكد من كلمة السر"
+msgstr "Parolayı denetle"
+
+#: ajax/functions.php:191
+msgid "قم بنسخ الرمز ولصه بحقل التأكيد في الموقع"
+msgstr "Simgeyi ve bir hırsızı sitedeki onay alanına kopyalayın"
+
+#: ajax/functions.php:193
+msgid "رمز تأكيد حدف الحساب"
+msgstr "Hesap onay kodu"
+
+#: ajax/functions.php:195
+msgid "تم إرسال رمز التأكيد إلى بريدك الإلكتروني"
+msgstr "Onay kodu e-posta tarafınızdan gönderildi"
+
+#: ajax/functions.php:197
+msgid "المعذرة ! حدث خطأ المرجو إعادة المحاولة مرة أخرى"
+msgstr ""
+
+#: ajax/functions.php:218 ajax/functions.php:240 ajax/functions.php:963
+#: functions.php:539 functions.php:611
+#, fuzzy
+msgid "تم حدف بنجاح"
+msgstr "Istek başarıyla gönderildi"
+
+#: ajax/functions.php:446 ajax/functions.php:457 ajax/functions.php:497
+#: ajax/functions.php:553 ajax/functions.php:588 ajax/functions.php:684
+#: ajax/functions.php:748 ajax/functions.php:757 ajax/functions.php:791
+#: ajax/functions.php:804 functions.php:592 inc/classes/Delete.php:157
+#: inc/classes/Delete.php:179 inc/classes/Query.php:181
+msgid "حدث خطأ المرجو إعادة المحاولة"
+msgstr ""
+
+#: ajax/functions.php:454
+#, fuzzy
+msgid "تم إضافة التصويت بنجاح"
+msgstr "Istek başarıyla gönderildi"
+
+#: ajax/functions.php:483
+#, fuzzy
+msgid "المرجو إدخال الإسم"
+msgstr "Lütfen kod emin olun"
+
+#: ajax/functions.php:487
+msgid "المرجو دكر نوع المخالفة"
+msgstr ""
+
+#: ajax/functions.php:495
+msgid "شكرا على وقتك سيتم أخد هذا التبليغ بغاية الأهمية"
+msgstr ""
+
+#: ajax/functions.php:520
+msgid "النص جد قصيرة ! "
+msgstr ""
+
+#: ajax/functions.php:525
+msgid "الرسالة جد قصيرة !"
+msgstr ""
+
+#: ajax/functions.php:535
+msgid "الإسم جد قصير !"
+msgstr ""
+
+#: ajax/functions.php:539
+msgid "البريد الإلكتروني غير صالح !"
+msgstr ""
+
+#: ajax/functions.php:551
+msgid "تم إرسال رسالة بنجاح سيتم الرد عليك في أقرب وقت ممكن. شكرا"
+msgstr ""
+
+#: ajax/functions.php:586
+#, fuzzy
+msgid "تم تحديث بنجاح"
+msgstr "Istek başarıyla gönderildi"
+
+#: ajax/functions.php:647
+#, fuzzy
+msgid "تم إضافة التعليق بنجاح"
+msgstr "Istek başarıyla gönderildi"
+
+#: ajax/functions.php:650
+msgid "المعذرة ! لم يتم إدخال التعليق المرجو إعادة المحاولة"
+msgstr ""
+
+#: ajax/functions.php:700 ajax/functions.php:716
+msgid "المعذرة ! ليس لك الصلاحيات للقيام بهذا الإجراء"
+msgstr ""
+
+#: ajax/functions.php:746
+msgid "تم الإزالة من المفضلة"
+msgstr ""
+
+#: ajax/functions.php:755
+msgid "تم الإضافة إلى المفضلة"
+msgstr ""
+
+#: ajax/functions.php:830
+#, php-format
+msgid "الرسالة يجب أن تكون بين %d - %d حرف"
+msgstr ""
+
+#: ajax/functions.php:857
+#, fuzzy
+msgid "تم إرسال رسالة بنجاح"
+msgstr "Istek başarıyla gönderildi"
+
+#: ajax/functions.php:878
+#, fuzzy
+msgid "تم إنشاء حساب بنجاح"
+msgstr "Istek başarıyla gönderildi"
+
+#: ajax/functions.php:885
+#, fuzzy
+msgid "تم تحديث البيانات بنجاح"
+msgstr "Istek başarıyla gönderildi"
+
+#: ajax/functions.php:888
+msgid "تم إرسال رابط إسترجاع كلمة المرور. قم(ي) بتفقد بريدك الإلكتروني"
+msgstr ""
+
+#: ajax/functions.php:928
+#, fuzzy
+msgid "تم نشر المحتوى بنجاح"
+msgstr "Istek başarıyla gönderildi"
+
+#: ajax/functions.php:943 ajax/functions.php:966
+msgid "المعذرة! حدت خطأ المرجو إعادة المحاولة"
+msgstr ""
+
+#: ajax/html-docs/add-post-modal.php:32
+msgid "موضوع تحصل به على نقاط"
+msgstr ""
+
+#: ajax/html-docs/add-post-modal.php:33
+msgid ""
+"إختر هنا لإرسال موضوع موثوق : إن أضفت بالموقع محتوى بشروطه و قْبل الموضوع "
+"يزيد نقاطك ولك مساحة أوسع لأرشفة موادك"
+msgstr ""
+
+#: ajax/html-docs/add-post-modal.php:37
+msgid "موضوع موثوق"
+msgstr ""
+
+#: ajax/html-docs/add-post-modal.php:44
+msgid "موضوع لاتحصل به على نقاط"
+msgstr ""
+
+#: ajax/html-docs/add-post-modal.php:45
+msgid ""
+"إختر هنا لإرسال موضوع غير موثوق : إن أضفت موضوع في ملفك لاتحصل على النقاط "
+"وينشر الموضوع فقط في ملفك و لاينشر في الموقع"
+msgstr ""
+
+#: ajax/html-docs/add-post-modal.php:49
+msgid "موضوع غير موثوق"
+msgstr ""
+
+#: ajax/html-docs/category-terms-modal.php:7 parts/dashboard/profile.php:326
+#: posts.php:149 single-post.php:130
+msgid "تنبيه"
+msgstr ""
+
+#: ajax/html-docs/category-terms-modal.php:8 posts.php:153
+msgid "قوانين القسم"
+msgstr ""
+
+#: ajax/html-docs/category-terms-modal.php:9 posts.php:157
+msgid "مصادر معتمدة"
+msgstr ""
+
+#: ajax/html-docs/complain-form.php:5
+msgid "مُحتوى ذو طابع لا أخلاقي او مخل باداب العامة"
+msgstr ""
+
+#: ajax/html-docs/complain-form.php:6
+msgid "مُحتوى يدعوا إلى الحقد و الكراهية و الارهاب"
+msgstr ""
+
+#: ajax/html-docs/complain-form.php:7
+msgid "مُحتوى يدعوا إلى الحاد وشذوذ الفكري والانحراف"
+msgstr ""
+
+#: ajax/html-docs/complain-form.php:8
+msgid "مُحتوى قاذف, فاضح أو مُهين لشخص أو جماعة"
+msgstr ""
+
+#: ajax/html-docs/complain-form.php:9
+msgid "مُحتوى فيه تدواول أعمال خطيرة, ضارة أو مُؤذية"
+msgstr ""
+
+#: ajax/html-docs/complain-form.php:10
+msgid "مُحتوى فيه مواد مخالف لشريعة الاسلامية"
+msgstr ""
+
+#: ajax/html-docs/complain-form.php:11
+msgid "مُحتوى فيه مواد محميَّة بحقوق طبع و نشر أو حقوق ملكية الفكرية"
+msgstr ""
+
+#: ajax/html-docs/complain-form.php:12
+msgid "مُحتوى ليس صحيحا فيها اخطاء يجب ان يصحح"
+msgstr ""
+
+#: ajax/html-docs/complain-form.php:13
+msgid "مصادر المُحتوى ليس صحيحا"
+msgstr ""
+
+#: ajax/html-docs/complain-form.php:14
+msgid "محتوى عاطل أو رابط معطل أو فيه فايروس"
+msgstr ""
+
+#: ajax/html-docs/complain-form.php:15
+msgid "غير ذالك"
+msgstr ""
+
+#: ajax/html-docs/complain-form.php:39
+msgid "إسم المرسل"
+msgstr ""
+
+#: ajax/html-docs/complain-form.php:44
+msgid "رقم الجوال أو البريد الإلكتروني"
+msgstr ""
+
+#: ajax/html-docs/complain-form.php:49
+msgid "نوع المخالفة"
+msgstr ""
+
+#: ajax/html-docs/complain-form.php:61
+msgid "تفاضيل مخالفة"
+msgstr ""
+
+#: ajax/html-docs/complain-form.php:66 ajax/html-docs/send-message-modal.php:22
+#: contact.php:49 forget_password.php:31 messages.php:63
+msgid "أرسل"
+msgstr ""
+
+#: ajax/html-docs/dashboard-ajax.php:63
+msgid "مشاهدة"
+msgstr ""
+
+#: ajax/html-docs/dashboard-ajax.php:68
+msgid "تقييم"
+msgstr ""
+
+#: ajax/html-docs/dashboard-ajax.php:73
+msgid "رد فعل"
+msgstr ""
+
+#: ajax/html-docs/dashboard-ajax.php:90
+msgid "مشاركة"
+msgstr ""
+
+#: ajax/html-docs/notification-modal.php:5 inc/functions/header_buttons.php:20
+msgid "التنبيهات"
+msgstr ""
+
+#: ajax/html-docs/send-message-modal.php:6
+msgid "أرسل رسالة إلى"
+msgstr ""
+
+#: ajax/html-docs/send-message-modal.php:20
+#, php-format
+msgid "بإرسالك لهذه الرسالة فأنت توافق على شروط و قوانين الموقع. "
+msgstr ""
+
+#: ajax/html-docs/users-page.php:23 single-post.php:353 user.php:105
+#: user.php:326 users.php:65
+msgid "النقاط"
+msgstr ""
+
+#: ajax/html-docs/users-page.php:27 single-post.php:357 user.php:109
+#: user.php:330 users.php:69
+msgid "المواضيع"
+msgstr ""
+
+#: ajax/html-docs/users-page.php:31 single-post.php:361 user.php:113
+#: user.php:334 users.php:73
+msgid "المتابعين"
+msgstr ""
+
+#: ajax/html-docs/users-page.php:36 single-post.php:366 user.php:118
+#: user.php:339 users.php:78
+msgid "متابعة"
+msgstr ""
+
+#: ajax/html-docs/users-page.php:37 single-post.php:367 user.php:119
+#: user.php:340 users.php:79
+msgid "أرسل رسالة"
+msgstr ""
+
+#: contact.php:11 contact.php:20 header-top.php:112
+msgid "إتصل بنا"
+msgstr ""
+
+#: contact.php:25 functions.php:3702
+msgid "الإسم الكامل"
+msgstr ""
+
+#: contact.php:31 forget_password.php:24 functions.php:3742
+#: parts/dashboard/account.php:69 signup.php:35
+msgid "البريد الإلكتروني"
+msgstr ""
+
+#: contact.php:37
+msgid "سبب المراسلة"
+msgstr ""
+
+#: contact.php:43
+msgid "الرسالة"
+msgstr ""
+
+#: dashboard.php:9 parts/dashboard/statistics.php:65
+msgid "احصائيات"
+msgstr ""
+
+#: dashboard.php:14
+msgid "اعدادات المشاركات"
+msgstr ""
+
+#: dashboard.php:18
+msgid "اعدادات التعليقات"
+msgstr ""
+
+#: dashboard.php:22
+msgid "اعدادات الإشعارات"
+msgstr ""
+
+#: dashboard.php:26
+msgid "اعدادات الملف الشخصي"
+msgstr ""
+
+#: dashboard.php:30
+#, fuzzy
+msgid "اعدادات الحساب"
+msgstr "Hesap onay kodu"
+
+#: dashboard.php:34
+msgid "اعدادات الشبكة الإجتماعية"
+msgstr ""
+
+#: dashboard.php:38
+msgid "حقيبة النقاط"
+msgstr ""
+
+#: dashboard.php:42
+msgid "تعليمات"
+msgstr ""
+
+#: dashboard.php:49 parts/dashboard/delete-account.php:23
+#: parts/dashboard/delete-account.php:32
+#, fuzzy
+msgid "حدف الحساب"
+msgstr "Hesap onay kodu"
+
+#: dashboard.php:63 dashboard.php:74
+msgid "لوحة التحكم"
+msgstr ""
+
+#: forget_password.php:11 forget_password.php:20 inc/classes/User.php:346
+#, fuzzy
+msgid "إسترجاع كلمة المرور"
+msgstr "Parolayı denetle"
+
+#: forget_password.php:27
+msgid ""
+"أدخل البريد الإلكتروني الذي سجلت به لكي نرسل لك رابط إعادة تعيين كلمة المرور"
+msgstr ""
+
+#: forget_password.php:34
+msgid "ليس لديك حساب ?"
+msgstr ""
+
+#: forget_password.php:34
+msgid "سجل حساب الآن"
+msgstr ""
+
+#: functions.php:68 parts/dashboard/profile.php:102
+msgid "المعلومات الشخصية"
+msgstr ""
+
+#: functions.php:169
+msgid "نبذة مختصرة"
+msgstr ""
+
+#: functions.php:189
+msgid "فيديو تعريفي"
+msgstr ""
+
+#: functions.php:215
+msgid "المؤهلات العلمية و الشهادات"
+msgstr ""
+
+#: functions.php:258 parts/dashboard/profile.php:171
+#: parts/dashboard/profile.php:173
+msgid "النشاطات و الدورات"
+msgstr ""
+
+#: functions.php:305 parts/dashboard/profile.php:19
+#: parts/dashboard/profile.php:226
+msgid "المهارات و الخبرات"
+msgstr ""
+
+#: functions.php:368 parts/dashboard/profile.php:23
+#: parts/dashboard/profile.php:275 parts/dashboard/profile.php:277
+msgid "الإنجازات و الإصدارات"
+msgstr ""
+
+#: functions.php:412 functions.php:3781
+msgid "تحميل السيرة الذاتية"
+msgstr ""
+
+#: functions.php:469 parts/post/name.php:17 parts/posts/name.php:52
+#: signup.php:44
+msgid "ذكر"
+msgstr ""
+
+#: functions.php:470 parts/post/name.php:23 parts/posts/name.php:55
+#: signup.php:45
+msgid "أنثى"
+msgstr ""
+
+#: functions.php:535
+msgid "هل تريد حدف هذا المحتوى ؟"
+msgstr ""
+
+#: functions.php:536
+msgid "تنبيه جديد"
+msgstr ""
+
+#: functions.php:537
+msgid "رسالة جديدة"
+msgstr ""
+
+#: functions.php:538 parts/media-uploader.php:60
+msgid "جاري التحميل ..."
+msgstr ""
+
+#: functions.php:540 functions.php:4246
+msgid "إشترك"
+msgstr ""
+
+#: functions.php:541
+msgid "الملف"
+msgstr ""
+
+#: functions.php:542 functions.php:4244
+msgid "إلغاء الإشتراك"
+msgstr ""
+
+#: functions.php:543
+#, fuzzy
+msgid "تمت العملية بنجاح"
+msgstr "Istek başarıyla gönderildi"
+
+#: functions.php:544
+msgid "حدث خطأ المرجو إعادة المحاولة مرة أخرى"
+msgstr ""
+
+#: functions.php:634 functions.php:642
+msgid "تم عمل التنفيد الجماعي بنجاح"
+msgstr ""
+
+#: functions.php:663 functions.php:2771 inc/classes/Query.php:413
+#: parts/dashboard/comments.php:108 parts/dashboard/profile.php:148
+#: parts/dashboard/profile.php:201 parts/dashboard/profile.php:252
+#: parts/dashboard/profile.php:304
+#, fuzzy
+msgid "حدف"
+msgstr "Hesap onay kodu"
+
+#: functions.php:664
+msgid "تعطيل"
+msgstr ""
+
+#: functions.php:665 post.php:173
+msgid "نشر"
+msgstr ""
+
+#: functions.php:667
+msgid "تنفيد"
+msgstr ""
+
+#: functions.php:700 users.php:94
+msgid "عرض المزيد"
+msgstr ""
+
+#: functions.php:1216
+msgid "أكمل إلى الرئيسية"
+msgstr ""
+
+#: functions.php:2228
+msgid "موثوق"
+msgstr ""
+
+#: functions.php:2232 parts/dashboard/posts.php:58
+msgid "غير موثوق"
+msgstr ""
+
+#: functions.php:2757 parts/dashboard/account.php:138
+#: parts/dashboard/notifications.php:64 parts/dashboard/profile.php:107
+#: parts/dashboard/profile.php:383 parts/language-settings-modal.php:35
+msgid "حفظ"
+msgstr ""
+
+#: functions.php:2758
+msgid "إلغاء"
+msgstr ""
+
+#: functions.php:2767 inc/classes/Query.php:388 parts/dashboard/profile.php:145
+#: parts/dashboard/profile.php:198 parts/dashboard/profile.php:249
+#: parts/dashboard/profile.php:301
+msgid "تعديل"
+msgstr ""
+
+#: functions.php:2774
+msgid "تبليغ"
+msgstr ""
+
+#: functions.php:2826
+msgid "عمل لك متابعة"
+msgstr ""
+
+#: functions.php:2827 functions.php:2833 functions.php:2839 functions.php:2846
+#: functions.php:2852 functions.php:2858 functions.php:2864 functions.php:2870
+#: functions.php:2876 functions.php:2883 functions.php:2889 functions.php:2896
+#: functions.php:2903 functions.php:2910
+msgid "الإدارة"
+msgstr ""
+
+#: functions.php:2832
+msgid "ألغى المتابعة"
+msgstr ""
+
+#: functions.php:2838 functions.php:2845
+msgid "قام بالتعليق على"
+msgstr ""
+
+#: functions.php:2851
+#, fuzzy
+msgid "تم نشر"
+msgstr "Istek başarıyla gönderildi"
+
+#: functions.php:2857
+#, fuzzy
+msgid "تم قفل"
+msgstr "Istek başarıyla gönderildi"
+
+#: functions.php:2863
+msgid "تم إضافة نقاط إلى حسابك"
+msgstr ""
+
+#: functions.php:2869
+msgid "حصلت على وسام جديد"
+msgstr ""
+
+#: functions.php:2875
+msgid "حصلت على رتبة جديدة"
+msgstr ""
+
+#: functions.php:2882
+msgid "مبروك تم إضافة إلى المواضيع المميزة"
+msgstr ""
+
+#: functions.php:2909
+msgid "تم إضافة تنبيه ل "
+msgstr ""
+
+#: functions.php:3710 signup.php:41
+msgid "الجنس"
+msgstr ""
+
+#: functions.php:3718
+msgid "الوظيفة الحالية"
+msgstr ""
+
+#: functions.php:3726
+msgid "الحالة الإجتماعية"
+msgstr ""
+
+#: functions.php:3734
+msgid "محل الإقامة و العنوان الحالي"
+msgstr ""
+
+#: functions.php:3750
+#, fuzzy
+msgid "الموقع"
+msgstr "Simgeyi ve bir hırsızı sitedeki onay alanına kopyalayın"
+
+#: functions.php:3758
+msgid "الهاتف"
+msgstr ""
+
+#: functions.php:3766
+msgid "نبذة مختصرة عنك"
+msgstr ""
+
+#: functions.php:3774
+msgid "رابط يوتيوب لفيديو تعريفي"
+msgstr ""
+
+#: functions.php:3879
+msgid "لا يراه احد"
+msgstr ""
+
+#: functions.php:3883
+msgid "لا يراه احد الا متابعه. تابعه"
+msgstr ""
+
+#: header-top.php:32
+msgid "الأقسام"
+msgstr "Forum"
+
+#: header-top.php:60
+msgid "الأعضاء"
+msgstr "Üye"
+
+#: header-top.php:105 posts.php:81 single-post.php:92
+msgid "الرئيسية"
+msgstr "ev"
+
+#: header-top.php:109
+#, fuzzy
+msgid "دخول إلى الحساب"
+msgstr "Hesap onay kodu"
+
+#: header.php:25
+msgid "أضف موضوعا"
+msgstr "Bir konu ekle"
+
+#: header.php:32
+msgid "إختر قسما"
+msgstr ""
+
+#: header.php:43
+msgid "نتائج البحث"
+msgstr ""
+
+#: header.php:47
+msgid "عرض نتائج البحث"
+msgstr "Arama sonuçlarını görüntüle"
+
+#: inc/classes/Delete.php:23
+msgid "المعذرة ! لم يتم بعض الدول"
+msgstr ""
+
+#: inc/classes/Delete.php:35
+msgid "المعذرة ! لم يتم بعض الصفحات"
+msgstr ""
+
+#: inc/classes/Delete.php:50
+msgid "لم يتم حدف بعض المواضيع"
+msgstr ""
+
+#: inc/classes/Delete.php:69 inc/classes/Delete.php:85
+msgid "لا يمكن إكمال هذه العملية"
+msgstr ""
+
+#: inc/classes/Delete.php:144
+#, fuzzy
+msgid "المرجو إختيار رتبة "
+msgstr "Lütfen kod emin olun"
+
+#: inc/classes/Delete.php:169
+msgid "المعدرة لا يمكن حدف القسم الإفتراضي"
+msgstr ""
+
+#: inc/classes/Query.php:201
+msgid "مسودة تلقائية"
+msgstr ""
+
+#: inc/classes/Query.php:267
+msgid "المعذرة ! نقاطك لاتسمح لك بإضافة موضوع"
+msgstr ""
+
+#: inc/classes/Query.php:271
+msgid "المعذرة ! لقد تجاوزت الحد المسموج به للإضافة اليوم"
+msgstr ""
+
+#: inc/classes/Query.php:311
+msgid "تم إيقاف هذا المحتوى من طرف الإدارة"
+msgstr ""
+
+#: inc/classes/Query.php:395
+msgid "إلغاء التوثيق"
+msgstr ""
+
+#: inc/classes/Query.php:400
+msgid "توثيق"
+msgstr ""
+
+#: inc/classes/Query.php:410
+msgid "قفل"
+msgstr ""
+
+#: inc/classes/Query.php:547
+msgid "المرجو إدخال إسم مؤلف الكتاب"
+msgstr ""
+
+#: inc/classes/Query.php:551
+#, fuzzy
+msgid "المرجو رفع كتاب"
+msgstr "Lütfen kimliği atpath kaldırın"
+
+#: inc/classes/Query.php:557
+msgid "المرجو إختيار جنس الإسم"
+msgstr ""
+
+#: inc/classes/Query.php:570
+#, fuzzy
+msgid "المرجو إختيار تصنيف "
+msgstr "Lütfen kod emin olun"
+
+#: inc/classes/Query.php:573
+#, fuzzy
+msgid "المرجو إختيار التقويم"
+msgstr "Lütfen kod emin olun"
+
+#: inc/classes/Query.php:582
+#, fuzzy
+msgid "المرجو إختيار الشهر"
+msgstr "Lütfen kod emin olun"
+
+#: inc/classes/Query.php:594
+msgid "المرجو إدخال إسم المؤلف"
+msgstr ""
+
+#: inc/classes/Query.php:601
+#, fuzzy
+msgid "المرجو إختيار صورة"
+msgstr "Lütfen kod emin olun"
+
+#: inc/classes/Query.php:612
+#, fuzzy
+msgid "المرجو إدخال عنوان"
+msgstr "Lütfen kod emin olun"
+
+#: inc/classes/Query.php:617
+#, fuzzy
+msgid "المرجو إختيار قسم"
+msgstr "Lütfen kod emin olun"
+
+#: inc/classes/User.php:55
+msgid "المعذرة ! المرجو إختيار الدولة"
+msgstr ""
+
+#: inc/classes/User.php:58
+msgid "المعذرة ! المرجو إختيار الجنس"
+msgstr ""
+
+#: inc/classes/User.php:124 inc/classes/User.php:128
+msgid "المعذرة ! الحقل فارغ"
+msgstr ""
+
+#: inc/classes/User.php:137 inc/classes/User.php:146
+msgid "المعذرة ! إسم المستخدم أو كلمة المرور خطأ"
+msgstr ""
+
+#: inc/classes/User.php:199
+msgid "المعذرة كلمة السر الحالية خطأ."
+msgstr ""
+
+#: inc/classes/User.php:312
+msgid "المعذرة ! الرابط غير صحيح"
+msgstr ""
+
+#: inc/classes/User.php:334 inc/classes/User.php:455
+msgid "المعذرة ! المرجو إدخال بريد إلكتروني صحيح"
+msgstr ""
+
+#: inc/classes/User.php:343
+msgid "إتبع الرابط التالي لإسترجاع كلمة مرور حسابك"
+msgstr ""
+
+#: inc/classes/User.php:344
+#, fuzzy
+msgid "من هنا"
+msgstr "Lütfen kod emin olun"
+
+#: inc/classes/User.php:414
+#, php-format
+msgid "يجب أن يكون إمتداد كلمة السر بين %s إلى %s"
+msgstr ""
+
+#: inc/classes/User.php:417
+msgid "كلمتي السر غير متطابقتين"
+msgstr ""
+
+#: inc/classes/User.php:423
+msgid "المعذرة ! إسم المستخدم قصير"
+msgstr ""
+
+#: inc/classes/User.php:435
+msgid "المعذرة ! إسم المستخدم مستعمل مسبقا"
+msgstr ""
+
+#: inc/classes/User.php:443
+msgid "المعذرة ! الإسم قصير"
+msgstr ""
+
+#: inc/classes/User.php:467
+msgid "المعذرة ! البريد الإلكتروني مستعمل مسبقا"
+msgstr ""
+
+#: inc/functions/core_fn.php:377
+msgid "يناير"
+msgstr ""
+
+#: inc/functions/core_fn.php:378
+msgid "فبراير"
+msgstr ""
+
+#: inc/functions/core_fn.php:379
+msgid "مارس"
+msgstr ""
+
+#: inc/functions/core_fn.php:380
+msgid "أبريل"
+msgstr ""
+
+#: inc/functions/core_fn.php:381
+msgid "ماي"
+msgstr ""
+
+#: inc/functions/core_fn.php:382
+msgid "يونيو"
+msgstr ""
+
+#: inc/functions/core_fn.php:383
+msgid "يوليوز"
+msgstr ""
+
+#: inc/functions/core_fn.php:384
+msgid "غشت"
+msgstr ""
+
+#: inc/functions/core_fn.php:385
+msgid "شتنبر"
+msgstr ""
+
+#: inc/functions/core_fn.php:386
+msgid "أكتوبر"
+msgstr ""
+
+#: inc/functions/core_fn.php:387
+msgid "نونبر"
+msgstr ""
+
+#: inc/functions/core_fn.php:388
+msgid "دجنبر"
+msgstr ""
+
+#: inc/functions/core_fn.php:391
+msgid "محرم"
+msgstr ""
+
+#: inc/functions/core_fn.php:392
+msgid "صفر"
+msgstr ""
+
+#: inc/functions/core_fn.php:393
+msgid "ربيع الأول"
+msgstr ""
+
+#: inc/functions/core_fn.php:394
+msgid "ربيع الثاني"
+msgstr ""
+
+#: inc/functions/core_fn.php:395
+msgid "جمادي الأول"
+msgstr ""
+
+#: inc/functions/core_fn.php:396
+msgid "جمادي الثاني"
+msgstr ""
+
+#: inc/functions/core_fn.php:397
+msgid "رجب"
+msgstr ""
+
+#: inc/functions/core_fn.php:398
+msgid "شعبان"
+msgstr ""
+
+#: inc/functions/core_fn.php:399
+msgid "رمضان"
+msgstr ""
+
+#: inc/functions/core_fn.php:400
+msgid "شوال"
+msgstr ""
+
+#: inc/functions/core_fn.php:401
+msgid "ذو القعدة"
+msgstr ""
+
+#: inc/functions/core_fn.php:402
+msgid "ذو الحجة"
+msgstr ""
+
+#: inc/functions/core_fn.php:405
+msgid "نوروز"
+msgstr ""
+
+#: inc/functions/core_fn.php:406
+msgid "كولان"
+msgstr ""
+
+#: inc/functions/core_fn.php:407
+msgid "جؤزه ردان"
+msgstr ""
+
+#: inc/functions/core_fn.php:408
+msgid "بووشبه ر"
+msgstr ""
+
+#: inc/functions/core_fn.php:409
+msgid "خه رمانان"
+msgstr ""
+
+#: inc/functions/core_fn.php:410
+msgid "كه لاويز"
+msgstr ""
+
+#: inc/functions/core_fn.php:411
+msgid "ره زبه ر"
+msgstr ""
+
+#: inc/functions/core_fn.php:412
+msgid "خه زه لوه ر"
+msgstr ""
+
+#: inc/functions/core_fn.php:413
+msgid "سه رماوه ز"
+msgstr ""
+
+#: inc/functions/core_fn.php:414
+msgid "به فرانبار"
+msgstr ""
+
+#: inc/functions/core_fn.php:415
+msgid "ريبه ندان"
+msgstr ""
+
+#: inc/functions/core_fn.php:416
+msgid "ره شه مئ"
+msgstr ""
+
+#: inc/functions/core_fn.php:441
+msgid "أقل من 1 ثانية"
+msgstr ""
+
+#: inc/functions/core_fn.php:445
+msgid "سنة"
+msgstr ""
+
+#: inc/functions/core_fn.php:446
+msgid "شهر"
+msgstr ""
+
+#: inc/functions/core_fn.php:447
+msgid "يوم"
+msgstr ""
+
+#: inc/functions/core_fn.php:448
+msgid "ساعة"
+msgstr ""
+
+#: inc/functions/core_fn.php:449
+msgid "دقيقة"
+msgstr ""
+
+#: inc/functions/core_fn.php:450
+msgid "ثانية"
+msgstr ""
+
+#: inc/functions/core_fn.php:460
+msgid "منذ "
+msgstr ""
+
+#: inc/functions/header_buttons.php:44 inc/functions/header_buttons.php:79
+msgid "عرض الكل"
+msgstr ""
+
+#: inc/functions/header_buttons.php:57 inc/functions/header_buttons.php:110
+msgid "الرسائل"
+msgstr ""
+
+#: inc/functions/header_buttons.php:90
+msgid "ملف الشخصي"
+msgstr ""
+
+#: inc/functions/header_buttons.php:92
+msgid "إعدادات"
+msgstr ""
+
+#: inc/functions/header_buttons.php:105
+msgid "لوحة الأدمن"
+msgstr ""
+
+#: inc/functions/header_buttons.php:108
+msgid "اللغة"
+msgstr ""
+
+#: inc/functions/header_buttons.php:112
+msgid "الخروج"
+msgstr ""
+
+#: index.php:196 signin.php:20
+msgid "تسجيل الدخول"
+msgstr ""
+
+#: index.php:199
+msgid "حساب جديد"
+msgstr ""
+
+#: index.php:237 parts/posts/history.php:44
+msgid "الأمس"
+msgstr ""
+
+#: index.php:239 parts/posts/history.php:46
+msgid "غدا"
+msgstr ""
+
+#: index.php:327
+msgid "مميز"
+msgstr ""
+
+#: index.php:373
+msgid "مواضيع متنوعة"
+msgstr ""
+
+#: index.php:520
+msgid "اكثر مشاهدة"
+msgstr ""
+
+#: index.php:523
+msgid "جديد"
+msgstr ""
+
+#: index.php:771
+msgid "اسماء"
+msgstr ""
+
+#: index.php:784
+msgid "حكم"
+msgstr ""
+
+#: index.php:797
+msgid "قاموس"
+msgstr ""
+
+#: index.php:812
+msgid "أعضاء مميزين"
+msgstr ""
+
+#: index.php:830 parts/dashboard/statistics.php:39
+#: parts/dashboard/statistics.php:40
+msgid "مواضيع"
+msgstr ""
+
+#: index.php:850
+msgid "عدد الأعضاء"
+msgstr ""
+
+#: index.php:859 parts/post/book.php:40
+msgid "عدد الصفحات"
+msgstr ""
+
+#: index.php:868
+msgid "عدد الزيارات"
+msgstr ""
+
+#: load.php:17
+msgid "الموقع مغلق حاليا."
+msgstr ""
+
+#: messages.php:60
+msgid "أكتب راسالتك هنا"
+msgstr ""
+
+#: parts/comment-form.php:12
+msgid "تعليقات"
+msgstr ""
+
+#: parts/comment-form.php:15 users.php:30
+msgid "ترتيب حسب"
+msgstr ""
+
+#: parts/comment-form.php:16
+msgid "من الأقدم إلى الأحدث"
+msgstr ""
+
+#: parts/comment-form.php:17
+msgid "من الأحدث إلى الأقدم"
+msgstr ""
+
+#: parts/comment-form.php:33
+msgid "أضف تعليق"
+msgstr ""
+
+#: parts/dashboard/account.php:31
+msgid "إرفع صورة"
+msgstr ""
+
+#: parts/dashboard/account.php:45 signup.php:25
+msgid "الإسم"
+msgstr ""
+
+#: parts/dashboard/account.php:57
+msgid "اسم المستخدم"
+msgstr ""
+
+#: parts/dashboard/account.php:80 parts/dashboard/statistics.php:140
+#: signup.php:74
+msgid "الدولة"
+msgstr ""
+
+#: parts/dashboard/account.php:95
+#, fuzzy
+msgid "تغيير كلمة المرور"
+msgstr "Parolayı denetle"
+
+#: parts/dashboard/account.php:102
+#, fuzzy
+msgid "كلمة السر الحالية"
+msgstr "Parolayı denetle"
+
+#: parts/dashboard/account.php:114
+#, fuzzy
+msgid "كلمة السر الجديدة"
+msgstr "Parolayı denetle"
+
+#: parts/dashboard/account.php:126
+#, fuzzy
+msgid "تأكيد كلمة السر"
+msgstr "Parolayı denetle"
+
+#: parts/dashboard/account.php:151
+msgid "شبكات الإجتماعية المتاحة"
+msgstr ""
+
+#: parts/dashboard/account.php:154 parts/dashboard/account.php:170
+msgid "فايسبوك"
+msgstr ""
+
+#: parts/dashboard/account.php:157
+msgid "تويتر"
+msgstr ""
+
+#: parts/dashboard/account.php:160
+msgid "جوجل بلس"
+msgstr ""
+
+#: parts/dashboard/account.php:167
+msgid "شبكات الإجنماعية على إتصال"
+msgstr ""
+
+#: parts/dashboard/comments.php:35
+msgid "تعليقات المشاركات"
+msgstr ""
+
+#: parts/dashboard/comments.php:36
+msgid "تعليقاتي"
+msgstr ""
+
+#: parts/dashboard/comments.php:75
+msgid "التعليق"
+msgstr ""
+
+#: parts/dashboard/comments.php:76
+msgid "رقم المحتوى"
+msgstr ""
+
+#: parts/dashboard/comments.php:77 signin.php:24 signup.php:30
+msgid "إسم المستخدم"
+msgstr ""
+
+#: parts/dashboard/comments.php:78 parts/dashboard/posts.php:90
+msgid "فئة"
+msgstr ""
+
+#: parts/dashboard/comments.php:79 parts/dashboard/posts.php:92
+msgid "الإجراءات"
+msgstr ""
+
+#: parts/dashboard/delete-account.php:10
+msgid "حدف الحساب خطوة لا يمكن التراجع عنها"
+msgstr ""
+
+#: parts/dashboard/delete-account.php:14
+#, fuzzy
+msgid "الرمز"
+msgstr "Simgeyi ve bir hırsızı sitedeki onay alanına kopyalayın"
+
+#: parts/dashboard/delete-account.php:15
+msgid "الرمز الذي وصلت على البريد الإلكتروني"
+msgstr ""
+
+#: parts/dashboard/delete-account.php:19
+#, fuzzy
+msgid "كلمة السر"
+msgstr "Parolayı denetle"
+
+#: parts/dashboard/delete-account.php:26
+msgid "لم يصل رمز التفعيل ؟"
+msgstr ""
+
+#: parts/dashboard/delete-account.php:26
+#, fuzzy
+msgid "أعد إرسال"
+msgstr "Istek başarıyla gönderildi"
+
+#: parts/dashboard/delete-account.php:57
+msgid "هل متأكد أنك تريد حدف حسابك ؟"
+msgstr ""
+
+#: parts/dashboard/notifications.php:17
+msgid "إشعارات التعليقات"
+msgstr ""
+
+#: parts/dashboard/notifications.php:24
+msgid "إشعارات الرد"
+msgstr ""
+
+#: parts/dashboard/notifications.php:34
+msgid "إشعارات الإشترك"
+msgstr ""
+
+#: parts/dashboard/notifications.php:41
+msgid "إشعارات إلغاء الإشتراك"
+msgstr ""
+
+#: parts/dashboard/notifications.php:51
+msgid "إشعارات رد فعل"
+msgstr ""
+
+#: parts/dashboard/notifications.php:57
+msgid "إشعارات البريد الإلكتروني"
+msgstr ""
+
+#: parts/dashboard/points-bag.php:19
+msgid "كل النقاط المحصل عليها"
+msgstr ""
+
+#: parts/dashboard/points-bag.php:25 parts/dashboard/statistics.php:25
+msgid "نقاط المستهلكة"
+msgstr ""
+
+#: parts/dashboard/points-bag.php:31 parts/dashboard/statistics.php:24
+msgid "نقاط الباقية"
+msgstr ""
+
+#: parts/dashboard/posts.php:37
+msgid "بحث عن مشاركة"
+msgstr ""
+
+#: parts/dashboard/posts.php:41
+msgid "إختر الصنف"
+msgstr ""
+
+#: parts/dashboard/posts.php:42 parts/dashboard/posts.php:56
+#: parts/language-settings-modal.php:25 posts.php:99 posts.php:116
+#: posts.php:123 user.php:365 users.php:31
+msgid "الكل"
+msgstr ""
+
+#: parts/dashboard/posts.php:55
+msgid "موثوق / غير موثوق"
+msgstr ""
+
+#: parts/dashboard/posts.php:57
+msgid "موقوق"
+msgstr ""
+
+#: parts/dashboard/posts.php:67
+msgid "الأخير"
+msgstr ""
+
+#: parts/dashboard/posts.php:68
+msgid "المشهور"
+msgstr ""
+
+#: parts/dashboard/posts.php:89
+msgid "عنوان"
+msgstr ""
+
+#: parts/dashboard/posts.php:91
+msgid "المشاهدات"
+msgstr ""
+
+#: parts/dashboard/profile.php:15
+msgid "الإنجاز أو الإصدار"
+msgstr ""
+
+#: parts/dashboard/profile.php:15
+msgid "تاريخ الإصدار"
+msgstr ""
+
+#: parts/dashboard/profile.php:15
+msgid "الرابط"
+msgstr ""
+
+#: parts/dashboard/profile.php:15
+msgid "المهارة أو الخبرة"
+msgstr ""
+
+#: parts/dashboard/profile.php:15 parts/dashboard/profile.php:234
+msgid "المستوى"
+msgstr ""
+
+#: parts/dashboard/profile.php:15
+msgid "النشاط أو الدورة"
+msgstr ""
+
+#: parts/dashboard/profile.php:15 parts/dashboard/profile.php:181
+msgid "تاريخ الإلتحاق"
+msgstr ""
+
+#: parts/dashboard/profile.php:15 parts/dashboard/profile.php:182
+msgid "تاريخ المغادرة"
+msgstr ""
+
+#: parts/dashboard/profile.php:15
+msgid "الشهادة التي حصلت عليها"
+msgstr ""
+
+#: parts/dashboard/profile.php:15 parts/dashboard/profile.php:130
+msgid "تاريخ التخرج"
+msgstr ""
+
+#: parts/dashboard/profile.php:27
+msgid " النشاطات و الدورات"
+msgstr ""
+
+#: parts/dashboard/profile.php:31 parts/dashboard/profile.php:120
+#: parts/dashboard/profile.php:122
+msgid "الموهلات العلمية و الشهادات"
+msgstr ""
+
+#: parts/dashboard/profile.php:122 parts/dashboard/profile.php:173
+#: parts/dashboard/profile.php:226 parts/dashboard/profile.php:277
+msgid "أضف مؤهل جديد"
+msgstr ""
+
+#: parts/dashboard/profile.php:129
+msgid "الشهادة"
+msgstr ""
+
+#: parts/dashboard/profile.php:180
+msgid "نشاط/دورة"
+msgstr ""
+
+#: parts/dashboard/profile.php:224
+msgid "لمهارات و الخبرات"
+msgstr ""
+
+#: parts/dashboard/profile.php:233
+msgid "المهارة/الخبرة"
+msgstr ""
+
+#: parts/dashboard/profile.php:284
+msgid "الإنجاز/الإصدار"
+msgstr ""
+
+#: parts/dashboard/profile.php:285
+msgid "التاريخ"
+msgstr ""
+
+#: parts/dashboard/profile.php:325
+msgid ""
+"للحصول على وسام السيرة الذاتية يمكنك إرسال طلب بعد إكمال سيرتك الذاتية "
+"بمعلومات صحيحة مع رفع نسخة من هوية صادرة من جهة حكومية تحمل صورتك للتحقق من "
+"صحة طلبك."
+msgstr ""
+
+#: parts/dashboard/profile.php:326
+msgid "إدخال أي معلومات غير صحيحة أو مضللة يعرض حسابك للحظر"
+msgstr ""
+
+#: parts/dashboard/profile.php:332
+#, fuzzy
+msgid "تحميل الهوية"
+msgstr "Lütfen kimliği atpath kaldırın"
+
+#: parts/dashboard/profile.php:343
+#, fuzzy
+msgid "إرسال الطلب"
+msgstr "Istek başarıyla gönderildi"
+
+#: parts/dashboard/profile.php:345
+#, fuzzy
+msgid "في طور المراجعة ..."
+msgstr "Bu gün"
+
+#: parts/dashboard/statistics.php:26
+msgid "كل نقاطك"
+msgstr ""
+
+#: parts/dashboard/statistics.php:41
+msgid "كل مواضيع"
+msgstr ""
+
+#: parts/dashboard/statistics.php:55
+msgid "رتبة التي حصلت عليها"
+msgstr ""
+
+#: parts/dashboard/statistics.php:68 parts/dashboard/statistics.php:131
+#: signup.php:53
+#, fuzzy
+msgid "اليوم"
+msgstr "Bu gün"
+
+#: parts/dashboard/statistics.php:69 parts/dashboard/statistics.php:132
+#, fuzzy
+msgid "هذا الشهر"
+msgstr "Bu gün"
+
+#: parts/dashboard/statistics.php:70 parts/dashboard/statistics.php:133
+msgid "هذه السنة"
+msgstr ""
+
+#: parts/dashboard/statistics.php:84
+msgid "زيارات لموقعك"
+msgstr ""
+
+#: parts/dashboard/statistics.php:103
+msgid "مشاهدة المواضيع"
+msgstr ""
+
+#: parts/dashboard/statistics.php:117
+msgid "قامو بنشر مواضيعك"
+msgstr ""
+
+#: parts/dashboard/statistics.php:128
+msgid "زوار حسب الدولة"
+msgstr ""
+
+#: parts/dashboard/statistics.php:141
+msgid "عدد الزوار"
+msgstr ""
+
+#: parts/dashboard/statistics.php:142
+msgid "مواضيع موتوقة"
+msgstr ""
+
+#: parts/dashboard/statistics.php:143
+msgid "مواضيع غير موتوقة"
+msgstr ""
+
+#: parts/dashboard/statistics.php:177
+msgid "إحصائيات المواضيع"
+msgstr ""
+
+#: parts/dashboard/statistics.php:180
+msgid "أكثر مشاهدة"
+msgstr ""
+
+#: parts/dashboard/statistics.php:181
+msgid "أكثر تقييما"
+msgstr ""
+
+#: parts/dashboard/statistics.php:182
+msgid "أكثر إعجابا"
+msgstr ""
+
+#: parts/dashboard/statistics.php:183
+msgid "أكثر مشاركة"
+msgstr ""
+
+#: parts/language-settings-modal.php:9
+msgid "إعدادات اللغة"
+msgstr ""
+
+#: parts/language-settings-modal.php:15
+msgid "لغة الموقع"
+msgstr ""
+
+#: parts/language-settings-modal.php:15
+msgid "لغة عرض الموقع"
+msgstr ""
+
+#: parts/language-settings-modal.php:23
+msgid "لغة المحتوى"
+msgstr ""
+
+#: parts/language-settings-modal.php:23
+msgid "لغة المحتوى المراد تصفحه. يمكن ترك الكل لتصفح المحتوى بكل اللغات."
+msgstr ""
+
+#: parts/media-uploader.php:15 parts/media-uploader.php:26
+msgid "مكتبة الوسائط"
+msgstr ""
+
+#: parts/media-uploader.php:31
+#, fuzzy
+msgid "رفع ملفات"
+msgstr "Lütfen kimliği atpath kaldırın"
+
+#: parts/media-uploader.php:41 parts/media-uploader.php:79
+msgid "إختر صنف الملف"
+msgstr ""
+
+#: parts/media-uploader.php:47
+msgid "معرض الصور"
+msgstr ""
+
+#: parts/media-uploader.php:48
+msgid "ملفاتي"
+msgstr ""
+
+#: parts/media-uploader.php:52
+msgid " إبحث عن ملف "
+msgstr ""
+
+#: parts/media-uploader.php:70
+msgid "إسحب ملفات لرفعها,أو"
+msgstr ""
+
+#: parts/media-uploader.php:75
+msgid "اختر ملف"
+msgstr ""
+
+#: parts/media-uploader.php:88
+#, php-format
+msgid "الحد الأقصى لرفع الملفات %s ميغا بابت. الإمتدادت المسموح بها %s"
+msgstr ""
+
+#: parts/media-uploader.php:99
+msgid "تفاصيل المرفق"
+msgstr ""
+
+#: parts/media-uploader.php:108
+#, fuzzy
+msgid "حدف الملف"
+msgstr "Hesap onay kodu"
+
+#: parts/media-uploader.php:118
+msgid "إدارج الملف"
+msgstr ""
+
+#: parts/post/article.php:2 parts/post/author_article.php:5
+#: parts/post/book.php:10 parts/post/image.php:2 parts/post/research.php:20
+#: parts/post/video.php:5
+msgid "فروع الأقسام"
+msgstr ""
+
+#: parts/post/article.php:9 parts/post/author_article.php:14
+#: parts/post/image.php:11 parts/post/video.php:14
+msgid "العنوان"
+msgstr ""
+
+#: parts/post/article.php:15
+msgid "محتوى المقال"
+msgstr ""
+
+#: parts/post/author_article.php:19 single-post.php:191
+msgid "إسم الكاتب"
+msgstr ""
+
+#: parts/post/author_article.php:25
+msgid "محتوى الموضوع"
+msgstr ""
+
+#: parts/post/book.php:19 parts/post/research.php:29
+#: parts/single-post/book.php:13
+msgid "عنوان الكتاب"
+msgstr ""
+
+#: parts/post/book.php:25 parts/post/research.php:37
+msgid "إسم المؤلف"
+msgstr ""
+
+#: parts/post/book.php:30 parts/post/research.php:44
+msgid "إسم المترجم"
+msgstr ""
+
+#: parts/post/book.php:36 parts/single-post/book.php:16
+msgid "سنة النشر"
+msgstr ""
+
+#: parts/post/book.php:44
+msgid "تحميل رابط الكتاب"
+msgstr ""
+
+#: parts/post/book.php:45
+msgid "يمكنك(ي) إضافة عدة أجزاء من الكتاب"
+msgstr ""
+
+#: parts/post/book.php:46
+#, fuzzy
+msgid "رفع كتاب"
+msgstr "Lütfen kimliği atpath kaldırın"
+
+#: parts/post/book.php:66
+msgid "وصف الكتاب"
+msgstr ""
+
+#: parts/post/dictionary.php:6 parts/post/name.php:6
+msgid "الإسم أو الكلمة"
+msgstr ""
+
+#: parts/post/dictionary.php:12 parts/post/name.php:36
+msgid "معنى الإسم أو الكلمة"
+msgstr ""
+
+#: parts/post/history.php:3
+msgid "الوفيات"
+msgstr ""
+
+#: parts/post/history.php:4
+#, fuzzy
+msgid "أحداث اليوم"
+msgstr "Bugünün ölümleri"
+
+#: parts/post/history.php:5
+#, fuzzy
+msgid "مناسبات"
+msgstr "Etkinlikler bugün"
+
+#: parts/post/history.php:9 posts.php:21
+msgid "هجري"
+msgstr ""
+
+#: parts/post/history.php:10 posts.php:22
+msgid "ميلادي"
+msgstr ""
+
+#: parts/post/history.php:11 posts.php:23
+msgid "كردي"
+msgstr ""
+
+#: parts/post/history.php:21
+msgid "تصنيف"
+msgstr ""
+
+#: parts/post/history.php:23
+msgid "إختر تصنيف"
+msgstr ""
+
+#: parts/post/history.php:31 posts.php:116
+msgid "نوع التاريخ"
+msgstr ""
+
+#: parts/post/history.php:33
+msgid "كردي, هجري, ميلادي"
+msgstr ""
+
+#: parts/post/history.php:41
+msgid "إختيار التاريخ"
+msgstr ""
+
+#: parts/post/history.php:44 posts.php:121
+msgid "أكتب السنة"
+msgstr ""
+
+#: parts/post/history.php:48 posts.php:123
+msgid "إختر الشهر"
+msgstr ""
+
+#: parts/post/history.php:62
+#, fuzzy
+msgid "أكتب اليوم"
+msgstr "Bu gün"
+
+#: parts/post/history.php:68
+msgid "الأحداث"
+msgstr ""
+
+#: parts/post/name.php:12
+msgid "إختر الجنس للإسم"
+msgstr ""
+
+#: parts/post/name.php:29 parts/posts/name.php:58
+msgid "كلاهما"
+msgstr ""
+
+#: parts/post/post-slices.php:66
+msgid "صورة"
+msgstr ""
+
+#: parts/post/post-slices.php:80 parts/post/research.php:89
+#: parts/post/research.php:106 post.php:221
+msgid "نص"
+msgstr ""
+
+#: parts/post/post-slices.php:84
+msgid "تضمين"
+msgstr ""
+
+#: parts/post/post-slices.php:88
+msgid "خرائط"
+msgstr ""
+
+#: parts/post/post-slices.php:92
+msgid "تصويت"
+msgstr ""
+
+#: parts/post/post-slices.php:96
+msgid "مسابقة"
+msgstr ""
+
+#: parts/post/post-slices.php:105
+msgid "من هنا تستطيع إضافة شرائح للمحتوى المنشور"
+msgstr ""
+
+#: parts/post/post-slices.php:171
+msgid "ألصق رابط المحتوى"
+msgstr ""
+
+#: parts/post/post-slices.php:178
+msgid "رابط الخريطة"
+msgstr ""
+
+#: parts/post/post-slices.php:187
+msgid "خيارات التصويت"
+msgstr ""
+
+#: parts/post/post-slices.php:194
+msgid "إضافة إستطلاع"
+msgstr ""
+
+#: parts/post/post-slices.php:202
+msgid "الأجوبة المقترحة"
+msgstr ""
+
+#: parts/post/post-slices.php:210
+msgid "أضف جواب"
+msgstr ""
+
+#: parts/post/post-slices.php:244
+msgid "صحيح"
+msgstr ""
+
+#: parts/post/post-thumbnail.php:42
+msgid " الحجم الأدنى لحجم الصورة "
+msgstr ""
+
+#: parts/post/post-thumbnail.php:50
+msgid "أنقر لإضافة صورة"
+msgstr ""
+
+#: parts/post/quote.php:2
+msgid "فروع القسم"
+msgstr ""
+
+#: parts/post/quote.php:11
+msgid "إسم صاحب المقولة"
+msgstr ""
+
+#: parts/post/quote.php:16
+msgid "المقولة"
+msgstr ""
+
+#: parts/post/research.php:51 parts/single-post/research.php:34
+msgid "دار النشر"
+msgstr ""
+
+#: parts/post/research.php:58
+msgid "صفحات متتالية مثل الكتاب"
+msgstr ""
+
+#: parts/post/research.php:59
+msgid "إضافة صفحة أخرى"
+msgstr ""
+
+#: parts/post/research.php:80
+msgid ""
+"عنوان الصفحة.. فإن لم يوجد عنوان تتركه فارغا, فتكون صفحة تابعة لما قبلها "
+msgstr ""
+
+#: parts/post/research.php:92 parts/post/research.php:109 post.php:224
+msgid "رابط المصدر"
+msgstr ""
+
+#: parts/post/research.php:98 post.php:168
+msgid "أضف مصدر"
+msgstr ""
+
+#: parts/post/video.php:19
+msgid "رابط الفيديو"
+msgstr ""
+
+#: parts/post/video.php:34
+msgid "وصف الفيديو"
+msgstr ""
+
+#: parts/post/video.php:44
+msgid "هل تريد إستعمال هذه الصورة ؟"
+msgstr ""
+
+#: parts/post/video.php:46
+msgid "نعم"
+msgstr ""
+
+#: parts/post/video.php:47
+msgid "لا شكرا"
+msgstr ""
+
+#: parts/posts/name.php:47
+msgid "فتح الجميع"
+msgstr ""
+
+#: parts/signin-modal.php:6 signin.php:37 signup.php:96
+msgid "دخول"
+msgstr ""
+
+#: parts/signin-modal.php:7
+msgid "انضم إلى مجتمع مدهش لدينا"
+msgstr ""
+
+#: parts/signin-modal.php:11
+msgid "تسجيل الدخول عبر فيسبوك"
+msgstr ""
+
+#: parts/signin-modal.php:12
+msgid "تسجيل الدخول عبر تويتر"
+msgstr ""
+
+#: parts/signin-modal.php:13
+msgid "تسجيل الدخول بالبريد الإلكتروني"
+msgstr ""
+
+#: parts/signin-modal.php:17
+msgid "لا يوجد لديك حساب ؟"
+msgstr ""
+
+#: parts/signin-modal.php:17
+msgid "سجل حسابك"
+msgstr ""
+
+#: parts/single-post/book.php:14
+msgid "اسم المؤلف"
+msgstr ""
+
+#: parts/single-post/book.php:15
+msgid "مُترجم"
+msgstr ""
+
+#: parts/single-post/book.php:17 parts/single-post/research.php:81
+msgid "صفحات"
+msgstr ""
+
+#: parts/single-post/book.php:18
+msgid "عدد معاينة الكتاب"
+msgstr ""
+
+#: parts/single-post/book.php:19
+msgid "عدد تحميل الكتاب"
+msgstr ""
+
+#: parts/single-post/book.php:31
+msgid "معاينة الكتاب"
+msgstr ""
+
+#: parts/single-post/book.php:37 parts/single-post/book.php:48
+msgid "رابط"
+msgstr ""
+
+#: parts/single-post/book.php:42
+msgid "تحميل الكتاب"
+msgstr ""
+
+#: parts/single-post/research.php:29
+msgid "مؤلف"
+msgstr ""
+
+#: parts/single-post/research.php:31
+msgid "مترجم"
+msgstr ""
+
+#: parts/single-post/research.php:46 single-post.php:216
+msgid "المصادر"
+msgstr ""
+
+#: parts/single-post/research.php:60 single-post.php:231
+msgid "المعذرة ! رتبتك لا تسمح لك بالإطلاع على المصادر"
+msgstr ""
+
+#: parts/single-post/research.php:63 single-post.php:234
+msgid "قم بتسجيل الدخول لكي تتمكن من رؤية المصادر"
+msgstr ""
+
+#: post.php:101
+msgid "إغلاق الصفحة"
+msgstr ""
+
+#: post.php:115
+msgid "المنشور  بإنتظار الموافقة"
+msgstr ""
+
+#: post.php:118
+msgid "المنشور بإنتظار المراجعة"
+msgstr ""
+
+#: post.php:127
+msgid "النشور مغلق حاليا"
+msgstr ""
+
+#: post.php:133
+msgid "إجباري"
+msgstr ""
+
+#: post.php:144
+msgid "تعديلات"
+msgstr ""
+
+#: post.php:145
+msgid "الكتابة تحتها سطر هي التعديل الجديد"
+msgstr ""
+
+#: post.php:154
+msgid "الكلمات المفتاحية"
+msgstr ""
+
+#: post.php:167
+msgid "مصادر المنشور"
+msgstr ""
+
+#: post.php:174
+msgid "حفظ كمسودة"
+msgstr ""
+
+#: post.php:179
+msgid "إضافة إلى سلايدر"
+msgstr ""
+
+#: post.php:185
+msgid "إضافة إلى مميز"
+msgstr ""
+
+#: post.php:191
+msgid "تعطيل التعليقات"
+msgstr ""
+
+#: post.php:197
+msgid "منع النسخ"
+msgstr ""
+
+#: posts.php:95
+msgid "التصنيف الإفتراضي"
+msgstr ""
+
+#: posts.php:97
+msgid "التصنيف الشجري"
+msgstr ""
+
+#: posts.php:132
+#, fuzzy
+msgid "أدخل اليوم"
+msgstr "Bu gün"
+
+#: reset_password.php:20 reset_password.php:29
+msgid "تعيين كلمة مرور جديدة"
+msgstr ""
+
+#: reset_password.php:33
+#, fuzzy
+msgid "كلمة المرور الجديدة"
+msgstr "Parolayı denetle"
+
+#: reset_password.php:38 signup.php:89
+#, fuzzy
+msgid "تأكيد كلمة المرور"
+msgstr "Hesap onay kodu"
+
+#: reset_password.php:44
+msgid "تغيير"
+msgstr ""
+
+#: signin.php:29 signup.php:84
+#, fuzzy
+msgid "كلمة المرور"
+msgstr "Parolayı denetle"
+
+#: signin.php:34
+#, fuzzy
+msgid "إسترجاع كلمة المرور ؟"
+msgstr "Parolayı denetle"
+
+#: signin.php:38 signup.php:95
+msgid "تسجيل"
+msgstr ""
+
+#: signup.php:11 signup.php:21
+msgid "تسجيل حساب جديد"
+msgstr ""
+
+#: signup.php:43
+msgid "إختر الجنس"
+msgstr ""
+
+#: signup.php:50
+msgid "تاريخ الإزدياد"
+msgstr ""
+
+#: signup.php:59
+msgid "الشهر"
+msgstr ""
+
+#: signup.php:65
+msgid "السنة"
+msgstr ""
+
+#: signup.php:104
+msgid "التسجيل معطل حاليا"
+msgstr ""
+
+#: single-post.php:17
+msgid "المنشور بإنتظار الموافقة حاليا"
+msgstr ""
+
+#: single-post.php:20
+msgid "المنشور  بإنتظار المراجعة حاليا"
+msgstr ""
+
+#: single-post.php:23
+msgid "المنشور مغلق حاليا"
+msgstr ""
+
+#: single-post.php:113
+msgid "شارك على فايسبوك"
+msgstr ""
+
+#: single-post.php:116
+msgid "شارك على تويتر"
+msgstr ""
+
+#: single-post.php:134
+#, fuzzy
+msgid "إرسال"
+msgstr "Onay kodu e-posta tarafınızdan gönderildi"
+
+#: single-post.php:421
+msgid "مواضيع ذات صلة"
+msgstr ""
+
+#: user.php:17
+msgid "حساب هذا المستخدم محظور"
+msgstr ""
+
+#: user.php:191
+msgid "حائط المواضيع"
+msgstr ""
+
+#: user.php:198 user.php:212
+msgid "مشاركات الأعضاء"
+msgstr ""
+
+#: user.php:201 user.php:213
+#, fuzzy
+msgid "مشاركات من الأقسام"
+msgstr "Lütfen kod emin olun"
+
+#: user.php:204 user.php:214
+msgid "مفضلتي"
+msgstr ""
+
+#: user.php:207 user.php:215
+msgid "مواضيع مميزة"
+msgstr ""
+
+#: user.php:219
+msgid "مواضيع جديدة لصاحب الملف"
+msgstr ""
+
+#: user.php:287 user.php:292
+msgid "السيرة الذاتية"
+msgstr ""
+
+#: user.php:302
+msgid "الاعضاء - المتابعون"
+msgstr ""
+
+#: user.php:307
+msgid "الأعضاء المتابعون"
+msgstr ""
+
+#: user.php:349
+msgid "لايوجد أي متابعين"
+msgstr ""
+
+#: user.php:354
+msgid "تصنيف لكل مواضيع"
+msgstr ""
+
+#: user.php:359
+msgid "تصنيف لكل المواضيع"
+msgstr ""
+
+#: user.php:413 user.php:418
+msgid "الأوسمة"
+msgstr ""
+
+#: users.php:26
+msgid "إبحث عن عضو"
+msgstr ""
+
+#: users.php:32
+msgid "أكثر مواضيع"
+msgstr ""
+
+#: users.php:33
+msgid "أكثر نقاط"
+msgstr ""
+
+#: users.php:34
+msgid "أكثر متابعين"
+msgstr ""
+
+#: users.php:35
+msgid "أكثر قراء للمواضيع"
+msgstr ""
+
+#: users.php:36
+msgid "أكثر مواضيع مشاركة"
+msgstr ""

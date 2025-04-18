@@ -1,0 +1,24 @@
+body {
+	direction:ltr;
+	text-align: inherit;
+}
+.notice {
+	border-width:0 0 0 6px;
+}
+.slick-arrow-h i, .slick-small-arrow-h i {
+    left:-10px !important;
+}
+.dropdown-menu {
+    left: auto !important;
+    right: 0 !important;
+}
+.home-wisdom-section .his-wisdom {
+    right:auto !important;
+    left:0;
+}
+.home-wisdom-section .wisdom-text {
+    margin-left:50px;
+}
+.quote-own {
+    margin: 0 24px 0 10px !important;
+}

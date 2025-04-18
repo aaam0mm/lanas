@@ -1,0 +1,46 @@
+RewriteEngine on
+
+RewriteCond %{HTTPS} !on
+RewriteRule (.\*) https://%{HTTP_HOST}%{REQUEST_URI}
+
+RewriteCond %{HTTP_HOST} .
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteRule ^http%{ENV:protossl}://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+RewriteRule ^sitemap\.xml$ sitemap.php [L]
+RewriteRule ^dashboard/([^/]+)$ dashboard.php?page=$1 [QSA]
+RewriteRule ^admin/dashboard/([^/]+)$ admin/dashboard.php?page=$1 [QSA]
+RewriteRule ^taxonomy/([^/]+)$ category.php?taxo_type=$1 [QSA]
+RewriteRule ^post/([^/]+)/([^/]+)/([^/]+)$ single-post.php?post_type=$1&post_id=$2&post_title=$3 [QSA]
+RewriteRule ^posts/([^/]+)$ posts.php?post_type=$1 [QSA]
+RewriteRule ^file/([^/]+)$ file.php?key=$1 [QSA]
+RewriteRule ^message/([^/]+)$ messages.php?msg_id=$1 [QSA]
+RewriteRule ^user/([^/]+)$ user.php?user_id=$1 [QSA]
+RewriteRule ^m/([^/]+)$ author.php?author_id=$1 [QSA]
+RewriteRule ^page/([^/]+)/([^/]+)$ page.php?id=$1&title=$2 [QSA]
+
+RewriteRule ^lns-sh/(.+)$ user-ajax.php?action=redirect [QSA]
+
+#RewriteCond %{HTTP_REFERER} !^$
+#RewriteCond %{HTTP_REFERER} !^https://(www\.)https://nas.4fk.org/.*$ [NC]
+#RewriteRule \.(gif|jpg|jpeg|bmp|zip|rar|mp3|flv|swf|xml|php|png|css|pdf)$ - [F]
+
+<IfModule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/x-javascript image/jpeg image/png image/jpg image/gif image/svg
+</IfModule>
+
+<ifModule mod_headers.c>
+# YEAR
+<FilesMatch "\.(ico|gif|jpg|jpeg|png|flv|pdf|svg|woff2)$">
+  Header set Cache-Control "max-age=29030400"
+</FilesMatch>
+# WEEK
+<FilesMatch "\.(js|css|swf)$">
+  Header set Cache-Control "max-age=604800"
+</FilesMatch>
+# 45 MIN
+<FilesMatch "\.(html|htm|txt)$">
+  Header set Cache-Control "max-age=2700"
+</FilesMatch>
+Header set Access-Control-Allow-Origin "*"
+</ifModule>
